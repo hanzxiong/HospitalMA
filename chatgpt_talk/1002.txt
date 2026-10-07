@@ -1,0 +1,7695 @@
+好，你说的很漂亮，能不能告诉我new press/literature里面有没有提到过一些类似的东西，以及在literature里面这个idea的contribution是否足够大。
+
+Worked for 2m 4s
+有，而且我查完以后，反而觉得这个 idea 值得继续做，但必须把 contribution 再 sharpen 一层。
+
+最重要的结论先放前面：
+
+“Mergers internalize knowledge/intangible-capital spillovers” 本身已经不够新。
+
+但如果你的 paper 是：
+
+Common ownership changes the incentive to 
+create
+ production-generated intangible capital
+Common ownership changes the incentive to create production-generated intangible capital
+​
+ 
+而不是 merely “merger allows existing knowledge to be transferred”，我认为仍然有一个相当清楚、而且可能很大的 gap。
+
+我会把文献分成几层来看，因为你真正需要知道的不是“有没有人提到类似词”，而是 referee 会拿哪几篇 paper 来打你，以及你到底比它们多了什么。
+
+一、最接近你的 finance 文献其实不少
+1. Rhodes-Kropf & Robinson (JF 2008)：complementary assets 应该放在 common ownership 下
+这是你必须最先面对的理论祖先。
+
+他们把 property-rights theory 带进 M&A，核心思想就是：
+
+complementary assets
+→
+common control
+.
+complementary assets→common control.
+他们用这个解释为什么 merger market 中存在 assortative matching，也就是所谓 “like buys like”。
+
+所以如果你的 contribution 写成：
+
+“相关资产在一起会产生 synergy，因此应该 merger。”
+
+referee 会直接说：
+
+Rhodes-Kropf and Robinson (2008).
+
+但他们没有告诉我们 complementarity 到底是什么、如何动态产生。
+
+他们的 asset complementarity 基本是 reduced-form：
+
+V
+(
+A
+,
+B
+)
+>
+V
+(
+A
+)
++
+V
+(
+B
+)
+.
+V(A,B)>V(A)+V(B).
+而你可以解释：
+
+为什么 
+V
+(
+A
+,
+B
+)
+>
+V
+(
+A
+)
++
+V
+(
+B
+)
+为什么 V(A,B)>V(A)+V(B)
+​
+ 
+因为：
+
+P
+r
+o
+d
+u
+c
+t
+i
+o
+n
+A
+→
+L
+e
+a
+r
+n
+i
+n
+g
+B
+,
+Production 
+A
+​
+ →Learning 
+B
+​
+ ,
+而 ownership 决定这个 externality 是否被 internalize。
+
+这就是第一层区别。
+
+二、真正危险的 finance 文献：Bena & Li (JF 2014)
+这篇非常重要。
+
+Bena and Li 研究 corporate innovation 和 M&A。他们发现：
+
+technological overlap 高的 firm pairs 更容易 merge；
+merger 后，之前已有 technological linkage 的 firms 会产生更多 patents；
+因此 technological synergies 是 acquisitions 的重要动因。
+这已经非常接近：
+
+knowledge relatedness
+→
+M
+&
+A
+→
+i
+n
+n
+o
+v
+a
+t
+i
+o
+n
+s
+y
+n
+e
+r
+g
+y
+.
+knowledge relatedness→M&A→innovationsynergy.
+所以如果你做：
+
+Patent similarity × merger → patents ↑
+
+基本没有 contribution。
+
+但你的东西和 Bena–Li 的关键差别应该是
+他们的逻辑更接近：
+
+E
+x
+i
+s
+t
+i
+n
+g
+ 
+K
+n
+o
+w
+l
+e
+d
+g
+e
+A
+⏟
+already there
++
+E
+x
+i
+s
+t
+i
+n
+g
+ 
+K
+n
+o
+w
+l
+e
+d
+g
+e
+B
+⏟
+already there
+⟶merger
+I
+n
+n
+o
+v
+a
+t
+i
+o
+n
+.
+already there
+Existing Knowledge 
+A
+​
+ 
+​
+ 
+​
+ + 
+already there
+Existing Knowledge 
+B
+​
+ 
+​
+ 
+​
+  
+⟶
+merger
+​
+ Innovation.
+你的逻辑应该是：
+
+M
+e
+r
+g
+e
+r
+→
+changes production/investment decisions
+⏟
+endogenous behavior
+→
+creates new knowledge
+⏟
+not existing pre-merger
+→
+f
+u
+t
+u
+r
+e
+ 
+p
+r
+o
+d
+u
+c
+t
+i
+v
+i
+t
+y
+.
+Merger→ 
+endogenous behavior
+changes production/investment decisions
+​
+ 
+​
+ → 
+not existing pre-merger
+creates new knowledge
+​
+ 
+​
+ →future productivity.
+也就是：
+
+knowledge recombination
+≠
+learning creation
+.
+knowledge recombination
+
+=learning creation.
+​
+ 
+我觉得这是你未来 intro 里一定要明确说出来的 distinction。
+
+三、organizational capital 文献也已经碰到一部分
+Li, Qiu, and Shen 的 Organization Capital and Mergers and Acquisitions 发现，高 organization-capital acquirers 的 announcement return、post-merger operating performance 和 innovation efficiency 更好。
+
+另外一篇 Acquiring Organizational Capital 更直接研究：
+
+target 本身有很多 organizational capital，acquirer 能不能通过 merger 把它买过来？
+
+结论是 target organizational capital 越高，acquirer gain 越高，而且支付的 premium 也更高。
+
+所以这里已有一个很成熟的概念：
+
+M
+&
+A
+=
+m
+a
+r
+k
+e
+t
+ 
+f
+o
+r
+ 
+e
+x
+i
+s
+t
+i
+n
+g
+ 
+o
+r
+g
+a
+n
+i
+z
+a
+t
+i
+o
+n
+a
+l
+ 
+c
+a
+p
+i
+t
+a
+l
+.
+M&A=market for existing organizational capital.
+​
+ 
+而这恰好给你一个非常漂亮的对照。
+
+Existing literature
+Target already owns 
+K
+O
+Target already owns K 
+O
+ 
+merger 把：
+
+K
+B
+O
+K 
+B
+O
+​
+ 
+transfer 给 A。
+
+你的 paper
+merger 之前：
+
+K
+f
+u
+t
+u
+r
+e
+O
+K 
+future
+O
+​
+ 
+根本还不存在。
+
+只有 merger 改变行为以后，它才被创造出来：
+
+M
+e
+r
+g
+e
+r
+→
+q
+A
+↑
+→
+K
+B
+,
+t
++
+1
+↑
+.
+Merger→q 
+A
+​
+ ↑→K 
+B,t+1
+​
+ ↑.
+所以你的 contribution 可以变成：
+
+The existing literature studies M&A as a market for intangible capital. We study M&A as a mechanism for creating intangible capital.
+
+这句话我觉得非常强。
+
+四、human capital literature 也离你很近
+Lee, Mauer, and Xu (JFE 2018) 做了 Human Capital Relatedness and M&A。
+
+他们发现 human-capital relatedness 高：
+
+⇒
+m
+e
+r
+g
+e
+r
+ 
+l
+i
+k
+e
+l
+i
+h
+o
+o
+d
+↑
+⇒merger likelihood↑
+同时：
+
+m
+e
+r
+g
+e
+r
+ 
+r
+e
+t
+u
+r
+n
+s
+↑
+,
+p
+o
+s
+t
+m
+e
+r
+g
+e
+r
+ 
+p
+e
+r
+f
+o
+r
+m
+a
+n
+c
+e
+↑
+.
+merger returns↑,postmerger performance↑.
+而且他们直接把它放在 property-rights / common ownership framework 里解释。
+
+所以仅仅讲：
+
+“similar workers / related human capital makes mergers valuable”
+
+也已经不新。
+
+更近一步的是 Li & Wang (JFQA 2023)。
+
+他们跟踪 merger 后 inventor teams，发现 acquirer 和 target 的 inventors 真正合作时，产生 path-breaking patents 的概率更高，并认为 tacit knowledge recombination 是重要 mechanism。
+
+这其实已经是：
+
+m
+e
+r
+g
+e
+r
+→
+p
+e
+o
+p
+l
+e
+ 
+c
+o
+l
+l
+a
+b
+o
+r
+a
+t
+e
+→
+k
+n
+o
+w
+l
+e
+d
+g
+e
+ 
+c
+r
+e
+a
+t
+i
+o
+n
+.
+merger→people collaborate→knowledge creation.
+这会是一个很强的 referee objection。
+
+五、甚至已经有人直接把 “knowledge spillover → merger” 写进 finance model
+这篇你一定要重点读：
+
+Huang & Xie (Journal of Corporate Finance, 2023)
+Technology Centrality, Bilateral Knowledge Spillovers and Mergers and Acquisitions
+
+他们直接建了一个 search-and-matching model：
+
+b
+i
+l
+a
+t
+e
+r
+a
+l
+ 
+k
+n
+o
+w
+l
+e
+d
+g
+e
+ 
+s
+p
+i
+l
+l
+o
+v
+e
+r
+s
+→
+p
+r
+o
+d
+u
+c
+t
+i
+v
+i
+t
+y
+ 
+g
+a
+i
+n
+→
+m
+e
+r
+g
+e
+r
+ 
+s
+u
+r
+p
+l
+u
+s
+→
+m
+e
+r
+g
+e
+r
+.
+bilateral knowledge spillovers→productivity gain→merger surplus→merger.
+并且发现 bilateral knowledge spillovers 越大，firm pair 越容易发生 merger。
+
+所以如果我们把你刚刚那个 idea 写成一句话：
+
+“Firms merge to internalize knowledge spillovers.”
+
+这句话现在已经很难 claim novelty。
+
+这一点我想说得很明确。
+
+六、2026 年甚至刚刚有一篇 IO theory 跟这个 headline 非常接近
+Hwangbo & Lee 2026 的：
+
+Horizontal Mergers and Innovation with Knowledge Spillovers
+直接研究：
+
+M
+&
+A
++
+k
+n
+o
+w
+l
+e
+d
+g
+e
+ 
+s
+p
+i
+l
+l
+o
+v
+e
+r
+s
++
+R
+&
+D
+.
+M&A+knowledge spillovers+R&D.
+他们的机制是，pre-merger firms 会因为 R&D spillovers 而 free-ride：
+
+R
+&
+D
+i
+→
+k
+n
+o
+w
+l
+e
+d
+g
+e
+j
+,
+R&D 
+i
+​
+ →knowledge 
+j
+​
+ ,
+但 
+i
+i 无法完全 capture 
+j
+j 得到的收益。
+
+merger 后：
+
+externality internalized
+externality internalized
+所以当 spillover 足够大时，merger 反而可能提高 innovation investment。
+
+这已经几乎就是：
+
+m
+e
+r
+g
+e
+r
+ 
+i
+n
+t
+e
+r
+n
+a
+l
+i
+z
+e
+s
+ 
+p
+o
+s
+i
+t
+i
+v
+e
+ 
+k
+n
+o
+w
+l
+e
+d
+g
+e
+ 
+e
+x
+t
+e
+r
+n
+a
+l
+i
+t
+y
+merger internalizes positive knowledge externality
+​
+ 
+的理论。
+
+所以 “internalization” 本身绝对不能成为你的 novelty。
+
+七、更危险的是：learning-by-doing + merger 也已经存在
+你喜欢这个 idea 是从现在这篇 space-launch paper 来的，但它并不是第一篇讲 merger 的 dynamic learning efficiency。
+
+一个很直接的 predecessor 是：
+
+An & Zhao, RAND Journal of Economics 2019
+Dynamic Efficiencies of the 1997 Boeing–McDonnell Douglas Merger
+
+他们就是研究：
+
+M
+e
+r
+g
+e
+r
+→
+a
+c
+c
+e
+l
+e
+r
+a
+t
+e
+d
+ 
+l
+e
+a
+r
+n
+i
+n
+g
+−
+b
+y
+−
+d
+o
+i
+n
+g
+→
+l
+o
+w
+e
+r
+ 
+f
+u
+t
+u
+r
+e
+ 
+c
+o
+s
+t
+s
+.
+Merger→accelerated learning−by−doing→lower future costs.
+而且结论非常强：如果只用 static model，会预测 merger 导致 $0.92bn consumer-surplus loss；加入 accelerated LBD 后，模型反而得到最高约 $5.14bn 的 consumer-surplus gain。
+
+FTC 后来讨论 merger efficiencies 时甚至专门把这篇作为一个案例，说 Boeing–McDonnell Douglas merger 的 dynamic efficiency 可以来自 accelerated learning-by-doing。
+
+所以：
+
+M
+e
+r
+g
+e
+r
+→
+l
+e
+a
+r
+n
+i
+n
+g
+−
+b
+y
+−
+d
+o
+i
+n
+g
+Merger→learning−by−doing
+​
+ 
+本身也不是新的。
+
+八、而你手上的这篇 JPE R&R 又把它推了一步
+这篇 space paper 比 An–Zhao 更接近你。
+
+它明确让 ULA merger 后 Atlas V 和 Delta IV cross-learn：一条 rocket family 的 launch 可以提高另一条的 experience/know-how，因为 FTC 当时认为合并 workforce 和 launch tempo 会带来跨系统 learning synergies。
+
+而且作者把这种 learning synergy 作为 merger-to-monopoly 可能创造 welfare gain 的核心机制之一。
+
+所以如果你拿这篇 paper 去跟 finance faculty 说：
+
+“我的 idea 是 merger 后 A 的 production 可以帮助 B learning。”
+
+他如果刚好读过这篇，会问你：
+
+“那和 Su-Yang-Sweeting 有什么区别？”
+
+这个问题必须提前回答。
+
+九、最近还有一篇 JPE，虽然不讲 learning，却非常值得警惕
+Demirer & Karaduman 的 Do Mergers and Acquisitions Improve Efficiency? Evidence from Power Plants，2024 NBER working paper，现已列为 2026 JPE publication。
+
+他们有非常细的 power-plant physical productivity data，发现 acquisition 后 plant efficiency 平均提高约 2%；direct ownership change 下 gains 大约 5%，而只是 parent-level ownership change 时没有显著改善。他们把大部分 improvement 归因于 productive efficiency，并提供证据说明 high-productivity firms 收购低效率 plants 后，通过 operational improvements 让 acquired plants 接近自己的效率。
+
+这篇对你其实既是威胁，也是支持。
+
+威胁是：
+
+acquisition → ownership → operating productivity
+
+已经是一篇 JPE。
+
+支持是：
+
+他们没有问：
+
+生产一个资产，是否让另一个资产学会更多东西？
+生产一个资产，是否让另一个资产学会更多东西？
+​
+ 
+他们主要研究：
+
+o
+w
+n
+e
+r
+s
+h
+i
+p
+ 
+c
+h
+a
+n
+g
+e
+→
+t
+a
+r
+g
+e
+t
+ 
+p
+l
+a
+n
+t
+ 
+p
+r
+o
+d
+u
+c
+t
+i
+v
+i
+t
+y
+.
+ownership change→target plant productivity.
+而你的核心应该是 cross-asset externality：
+
+S
+h
+o
+c
+k
+A
+→
+L
+e
+a
+r
+n
+i
+n
+g
+B
+.
+Shock 
+A
+​
+ →Learning 
+B
+​
+ .
+十、所以真正的 literature map，我会画成这样
+Literature	已经知道什么	你不能再 claim 什么	你可能还能 claim 什么
+Rhodes-Kropf & Robinson	complementary assets → merger	common ownership of complements	complementarity 如何动态形成
+Bena & Li	tech overlap → M&A + innovation	technology synergy	production-generated learning
+Org-capital papers	M&A transfers existing org capital	“buy intangible capital”	merger creates new intangible capital
+Human-capital M&A	related workers create merger value	human capital synergy	production experience across assets
+Li & Wang	post-merger inventor collaboration → patents	tacit knowledge sharing	learning generated by doing, not R&D collaboration
+Huang & Xie	bilateral knowledge spillover → merger surplus	internalize knowledge spillovers	endogenous production-generated spillover
+Hwangbo & Lee	merger internalizes R&D spillovers	spillovers → more R&D	non-R&D operating learning
+An & Zhao	merger → accelerated LBD	merger can accelerate learning	cross-product ownership-dependent LBD
+Su-Yang-Sweeting	ownership creates cross-rocket learning	cross-learning possible in one industry	general causal evidence / finance implications
+Demirer-Karaduman	acquisitions improve plant productivity	ownership improves operations	one asset's activity raises sibling asset productivity
+这张表其实告诉你：
+
+你的 headline 不能是：
+Mergers Internalize Knowledge Spillovers
+
+太 crowded。
+
+也不能是：
+
+Mergers and Learning-by-Doing
+
+也已经有了。
+
+十一、我认为真正还有空间的是这个命题
+我会把原 idea 改写成：
+
+Does
+ 
+common
+ 
+ownership
+ 
+change
+ 
+the
+ 
+production
+ 
+of
+ 
+organizational
+ 
+knowledge?
+Does common ownership change the production of organizational knowledge?
+​
+ 
+注意是：
+
+production of knowledge，
+
+不是：
+
+transfer of knowledge。
+
+这就有本质区别。
+
+假设 A 和 B 是两个 related production lines。
+
+Pre-merger：
+
+e
+B
+,
+t
++
+1
+=
+(
+1
+−
+δ
+)
+e
+B
+,
+t
++
+q
+B
+,
+t
++
+λ
+o
+u
+t
+q
+A
+,
+t
+.
+e 
+B,t+1
+​
+ =(1−δ)e 
+B,t
+​
+ +q 
+B,t
+​
+ +λ 
+out
+ q 
+A,t
+​
+ .
+Post-merger：
+
+e
+B
+,
+t
++
+1
+=
+(
+1
+−
+δ
+)
+e
+B
+,
+t
++
+q
+B
+,
+t
++
+λ
+i
+n
+q
+A
+,
+t
+,
+e 
+B,t+1
+​
+ =(1−δ)e 
+B,t
+​
+ +q 
+B,t
+​
+ +λ 
+in
+ q 
+A,t
+​
+ ,
+而：
+
+λ
+i
+n
+>
+λ
+o
+u
+t
+.
+λ 
+in
+ >λ 
+out
+ .
+但更关键的是 merger 还改变：
+
+q
+A
+∗
+.
+q 
+A
+∗
+​
+ .
+所以 total effect 是：
+
+d
+e
+B
+d
+M
+e
+r
+g
+e
+r
+=
+∂
+e
+B
+∂
+q
+A
+∂
+q
+A
+∂
+M
+e
+r
+g
+e
+r
+⏟
+more learning is produced
++
+∂
+e
+B
+∂
+λ
+∂
+λ
+∂
+M
+e
+r
+g
+e
+r
+⏟
+learning transmits better
+.
+dMerger
+de 
+B
+​
+ 
+​
+ = 
+more learning is produced
+∂q 
+A
+​
+ 
+∂e 
+B
+​
+ 
+​
+  
+∂Merger
+∂q 
+A
+​
+ 
+​
+ 
+​
+ 
+​
+ + 
+learning transmits better
+∂λ
+∂e 
+B
+​
+ 
+​
+  
+∂Merger
+∂λ
+​
+ 
+​
+ 
+​
+ .
+现有很多 literature 主要在研究第二项：
+
+knowledge transfer
+.
+knowledge transfer.
+我觉得你最应该占住的是第一项：
+
+ownership changes how much learning firms choose to produce.
+ownership changes how much learning firms choose to produce.
+​
+ 
+这才真正新。
+
+十二、甚至我要把刚才给你的那句话再修改一下
+之前我说：
+
+Mergers do not merely combine existing intangible capital; they can change the incentives to create it.
+
+查完文献以后，我仍然觉得这句话非常好。
+
+而且我现在更确定：这应该成为 contribution，而不是“knowledge spillover”。
+
+因为现有 M&A finance literature 大量在做：
+
+K
+A
++
+K
+B
+.
+K 
+A
+​
+ +K 
+B
+​
+ .
+你要做：
+
+M
+e
+r
+g
+e
+r
+→
+q
+A
+∗
+,
+q
+B
+∗
+→
+K
+t
++
+1
+.
+Merger→q 
+A
+∗
+​
+ ,q 
+B
+∗
+​
+ →K 
+t+1
+​
+ .
+​
+ 
+也就是 firm boundary 改变 law of motion of intangible capital。
+
+这个说法明显更深。
+
+十三、一个特别重要的新区别：learning 是 by doing，而不是 by inventing
+现在 finance innovation literature 极度依赖：
+
+p
+a
+t
+e
+n
+t
+s
+,
+ 
+c
+i
+t
+a
+t
+i
+o
+n
+s
+,
+ 
+R
+&
+D
+.
+patents, citations, R&D.
+Bena–Li、Li–Wang 这些基本都活在 patent world。
+
+而你可以研究的是：
+
+knowledge generated outside R&D
+knowledge generated outside R&D
+​
+ 
+例如：
+
+p
+r
+o
+d
+u
+c
+t
+i
+o
+n
+→
+y
+i
+e
+l
+d
+↑
+production→yield↑
+p
+r
+o
+d
+u
+c
+t
+i
+o
+n
+→
+d
+e
+f
+e
+c
+t
+s
+↓
+production→defects↓
+p
+r
+o
+d
+u
+c
+t
+i
+o
+n
+→
+c
+y
+c
+l
+e
+ 
+t
+i
+m
+e
+↓
+production→cycle time↓
+p
+r
+o
+d
+u
+c
+t
+i
+o
+n
+→
+r
+e
+l
+i
+a
+b
+i
+l
+i
+t
+y
+↑
+.
+production→reliability↑.
+这其实对应 organizational capital 中一个被 finance 很难 observe 的部分：
+
+o
+p
+e
+r
+a
+t
+i
+o
+n
+a
+l
+ 
+i
+n
+t
+a
+n
+g
+i
+b
+l
+e
+ 
+c
+a
+p
+i
+t
+a
+l
+.
+operational intangible capital.
+​
+ 
+Levitt, List, and Syverson 在 JPE 的 automobile plant paper 已经证明 learning-by-doing 的 knowledge 可以通过组织里的 systems 被积累、传递和 embodied，而不只是存在于 individual workers 身上。
+
+所以你的 bridge 可以是：
+
+LBD literature
++
+M&A literature
++
+theory of firm
+.
+LBD literature+M&A literature+theory of firm.
+这三个 literature 单独都很成熟，但真正的 intersection 还没有被 finance 很系统地占住。
+
+十四、新闻/现实世界里，这个 mechanism 其实非常 visible
+一个特别漂亮的 contemporary example 就是：
+
+Boeing–Spirit AeroSystems
+Boeing 2024 宣布重新收购 Spirit AeroSystems 时，自己给出的 rationale 并不只是 cost cutting。
+
+它明确说重新合并可以：
+
+align commercial production systems；
+align Safety and Quality Management Systems；
+align workforce incentives；
+让 Boeing 和 Spirit 的 engineers/mechanics “work seamlessly together”。
+而 Spirit 原来就是 Boeing 2005 年 spin-off 出去的 manufacturing business；2024 的 transaction 本质上又把关键 manufacturing operations 收回 corporate boundary。Reuters 当时也把交易背景放在 manufacturing quality 和 engineering integration 上。
+
+这个例子很有意思，因为它几乎是一个现实版：
+
+market contract
+→
+integration
+market contract→integration
+的问题。
+
+不是说 Boeing 买了 Spirit 的 patent。
+
+而是 Boeing 似乎认为：
+
+生产系统、工程、质量控制和 incentives 放在一个 boundary 内更有效。
+生产系统、工程、质量控制和 incentives 放在一个 boundary 内更有效。
+​
+ 
+这和你的 narrative 很一致。
+
+十五、所以 contribution 到底“够不够大”？
+我的判断分三种情况。
+
+如果 paper 只是：
+T
+e
+c
+h
+n
+o
+l
+o
+g
+i
+c
+a
+l
+R
+e
+l
+a
+t
+e
+d
+n
+e
+s
+s
+×
+M
+e
+r
+g
+e
+r
+→
+C
+A
+R
+TechnologicalRelatedness×Merger→CAR
+我会觉得 不够大。
+
+Bena–Li、Huang–Xie、human-capital literature 已经非常近。
+
+如果是：
+M
+e
+r
+g
+e
+r
+→
+p
+r
+o
+d
+u
+c
+t
+i
+v
+i
+t
+y
+t
+a
+r
+g
+e
+t
+↑
+Merger→productivity 
+target
+​
+ ↑
+也很危险。
+
+Demirer–Karaduman 的 JPE 已经占了很大一块。
+
+但如果你真的能证明：
+S
+h
+o
+c
+k
+ 
+t
+o
+ 
+P
+r
+o
+d
+u
+c
+t
+i
+o
+n
+A
+→
+P
+e
+r
+f
+o
+r
+m
+a
+n
+c
+e
+B
+Shock to Production 
+A
+​
+ →Performance 
+B
+​
+ 
+​
+ 
+而这个 effect：
+
+在 common ownership 之后突然变强
+在 common ownership 之后突然变强
+​
+ 
+并且：
+
+只发生在 technologically/operationally related A,B 上
+只发生在 technologically/operationally related A,B 上
+​
+ 
+那我认为 contribution 可以相当大。
+
+因为你直接识别的是：
+
+firm boundary changes the transmission and creation of operating knowledge.
+
+而不是又一篇：
+
+mergers improve productivity.
+
+十六、最理想的 empirical graph 应该长这样
+假设横轴是：
+
+P
+r
+o
+d
+u
+c
+t
+i
+o
+n
+S
+h
+o
+c
+k
+A
+.
+ProductionShock 
+A
+​
+ .
+纵轴是：
+
+F
+u
+t
+u
+r
+e
+P
+r
+o
+d
+u
+c
+t
+i
+v
+i
+t
+y
+B
+.
+FutureProductivity 
+B
+​
+ .
+Separate ownership
+斜率：
+
+β
+S
+e
+p
+a
+r
+a
+t
+e
+≈
+0.
+β 
+Separate
+ ≈0.
+Common ownership
+斜率：
+
+β
+C
+o
+m
+m
+o
+n
+>
+0.
+β 
+Common
+ >0.
+所以：
+
+β
+C
+o
+m
+m
+o
+n
+−
+β
+S
+e
+p
+a
+r
+a
+t
+e
+>
+0.
+β 
+Common
+ −β 
+Separate
+ >0.
+​
+ 
+这张图如果真的能被 causal identification 做出来，我觉得会非常有力量。
+
+因为一张图就把：
+
+knowledge spillover；
+firm boundary；
+M&A；
+intangible capital；
+learning-by-doing
+全部连起来了。
+
+十七、而且最好再有一个 “teacher–student” prediction
+这是现有文献里我目前看到相对少的角度。
+
+如果 A 已经 production 很成熟：
+
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+A
+≫
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+B
+,
+Experience 
+A
+​
+ ≫Experience 
+B
+​
+ ,
+那么：
+
+S
+h
+o
+c
+k
+A
+→
+B
+Shock 
+A
+​
+ →B
+应该特别强。
+
+反过来：
+
+S
+h
+o
+c
+k
+B
+→
+A
+Shock 
+B
+​
+ →A
+应该弱。
+
+所以：
+
+β
+A
+→
+B
+>
+β
+B
+→
+A
+.
+β 
+A→B
+​
+ >β 
+B→A
+​
+ .
+而且随着 B 自己 experience 越来越高：
+
+β
+A
+→
+B
+,
+t
+↓
+.
+β 
+A→B,t
+​
+ ↓.
+也就是说 spillover 有一个 life cycle：
+
+ownership is most valuable when one asset is early in its learning curve.
+ownership is most valuable when one asset is early in its learning curve.
+​
+ 
+这比简单 technological overlap 高低有更多 economic content。
+
+十八、这又可以产生一个很新的 M&A prediction
+传统 paper：
+
+S
+i
+m
+i
+l
+a
+r
+i
+t
+y
+A
+B
+↑
+⇒
+P
+(
+M
+e
+r
+g
+e
+r
+)
+↑
+.
+Similarity 
+AB
+​
+ ↑⇒P(Merger)↑.
+你的 prediction 可以更具体：
+
+P
+(
+M
+e
+r
+g
+e
+r
+A
+B
+)
+↑
+P(Merger 
+AB
+​
+ )↑
+当：
+
+R
+e
+l
+a
+t
+e
+d
+n
+e
+s
+s
+A
+B
+×
+L
+e
+a
+r
+n
+i
+n
+g
+I
+n
+t
+e
+n
+s
+i
+t
+y
+A
+×
+L
+e
+a
+r
+n
+i
+n
+g
+O
+p
+p
+o
+r
+t
+u
+n
+i
+t
+y
+B
+Relatedness 
+AB
+​
+ ×LearningIntensity 
+A
+​
+ ×LearningOpportunity 
+B
+​
+ 
+​
+ 
+高。
+
+其中：
+
+L
+e
+a
+r
+n
+i
+n
+g
+O
+p
+p
+o
+r
+t
+u
+n
+i
+t
+y
+B
+LearningOpportunity 
+B
+​
+ 
+应该在 B：
+
+新产品；
+新 plant；
+ramp-up stage；
+新 production technology；
+高 defect/yield learning phase
+时特别高。
+
+所以不是简单：
+
+like buys like。
+
+而是：
+
+experienced assets buy related inexperienced assets when knowledge can be redeployed through future production.
+
+这个 prediction 我觉得非常好。
+
+十九、这样你的 paper 就和现有文献形成一个很干净的 2×2
+Existing capital	Future capital
+R&D / technological knowledge	Bena–Li, Li–Wang	R&D spillover / merger-innovation literature
+Operating / organizational knowledge	organization-capital M&A literature	你的 paper
+你的右下角是：
+
+future operating intangible capital generated through production
+future operating intangible capital generated through production
+​
+ 
+然后 ownership 影响它的 creation。
+
+这个 positioning 我目前觉得是最有希望的。
+
+二十、不过有一个非常严苛的要求
+这个 idea 的 contribution 够不够大，最终不取决于 framing，而取决于 data。
+
+如果最后只能拿 Compustat 做：
+
+R
+O
+A
+p
+o
+s
+t
+=
+β
+M
+e
+r
+g
+e
+r
++
+ϵ
+,
+ROA 
+post
+​
+ =βMerger+ϵ,
+那这个 idea 会迅速变成普通 M&A paper。
+
+你真正需要的是能同时观察：
+
+A
+s
+s
+e
+t
+/
+P
+r
+o
+d
+u
+c
+t
+A
+Asset/Product 
+A
+​
+ 
+​
+ 
+的：
+
+p
+r
+o
+d
+u
+c
+t
+i
+o
+n
+/
+e
+x
+p
+o
+s
+u
+r
+e
+production/exposure
+以及：
+
+A
+s
+s
+e
+t
+/
+P
+r
+o
+d
+u
+c
+t
+B
+Asset/Product 
+B
+​
+ 
+​
+ 
+未来的：
+
+c
+o
+s
+t
+,
+ 
+y
+i
+e
+l
+d
+,
+ 
+r
+e
+l
+i
+a
+b
+i
+l
+i
+t
+y
+,
+ 
+d
+e
+f
+e
+c
+t
+s
+,
+ 
+p
+r
+o
+d
+u
+c
+t
+i
+v
+i
+t
+y
+.
+cost, yield, reliability, defects, productivity.
+然后还能看到：
+
+o
+w
+n
+e
+r
+s
+h
+i
+p
+A
+B
+,
+t
+.
+ownership 
+AB,t
+​
+ .
+最好再有：
+
+exogenous production demand shock
+A
+.
+exogenous production demand shock 
+A
+​
+ .
+这就是为什么我现在会觉得 industry choice 比 model choice 重要得多。
+
+我现在对这个 project 的判断
+我不会因为现有 literature 很多就放弃它，恰恰相反：它已经处在一个很好的 literature intersection，但你必须避免停在最表层的“knowledge synergies”上。
+
+最值得继续打磨的 contribution，我会写成：
+
+Existing work views mergers as combining or transferring existing technological, human, and organizational capital. We study a different role of firm boundaries: common ownership changes firms' incentives to create intangible capital through production. When experience generated by one asset improves related assets, separate owners fail to internalize the full return to learning. Mergers alter production decisions and thereby change the accumulation of organizational knowledge itself.
+
+如果最后 empirical design 能做到：
+
+P
+r
+o
+d
+u
+c
+t
+i
+o
+n
+S
+h
+o
+c
+k
+A
+×
+C
+o
+m
+m
+o
+n
+O
+w
+n
+e
+r
+s
+h
+i
+p
+A
+B
+×
+R
+e
+l
+a
+t
+e
+d
+n
+e
+s
+s
+A
+B
+→
+F
+u
+t
+u
+r
+e
+P
+e
+r
+f
+o
+r
+m
+a
+n
+c
+e
+B
+,
+ProductionShock 
+A
+​
+ ×CommonOwnership 
+AB
+​
+ ×Relatedness 
+AB
+​
+ →FuturePerformance 
+B
+​
+ ,
+​
+ 
+我会认为这已经不是“一个有趣的 M&A mechanism”，而是可能成为一篇关于 firm boundaries 如何决定 intangible capital formation 的 paper。这个层次，我觉得是值得认真往下挖的。
+
+下一步最关键不是继续想 theory，而是 找 data setting。我会优先帮你 systematically screen semiconductor、aircraft/defense、pharma/biomanufacturing、auto、power plants、shipbuilding 六个行业，看哪一个能够同时观察 
+q
+A
+q 
+A
+​
+ 、performance 
+B
+B、ownership change 和外生 demand shock；这个筛选基本会决定这个 project 是不是能成。
+
+好，帮我找找看
+
+Worked for 10m 18s
+我又按“能不能真的把 
+q
+A
+→
+p
+e
+r
+f
+o
+r
+m
+a
+n
+c
+e
+B
+q 
+A
+​
+ →performance 
+B
+​
+  做出来”重新筛了一轮，而且加了一个之前没重点考虑的 setting：hospital systems。现在我的排序和刚才有一点变化。
+
+截至 2026 年 10 月，我会优先调查 医院系统、汽车、国防/航空航天；power plants 非常适合做第一版 proof-of-concept，但和刚发表的 JPE 太近；semiconductor 是经济机制最漂亮但数据最卡脖子的 setting。
+
+Setting	
+q
+A
+q 
+A
+​
+  能否观察	
+P
+e
+r
+f
+o
+r
+m
+a
+n
+c
+e
+B
+Performance 
+B
+​
+  能否观察	Ownership changes	外生 
+q
+A
+q 
+A
+​
+  shock	最大问题
+Hospital systems	★★★★★	★★★★☆	★★★★★	★★★★☆	health literature 很大，但你的 mechanism 尚可区分
+Automobiles	★★★★★	★★★★★	★★☆☆☆	★★☆☆☆	merger events 可能不够多
+Defense / aerospace	★★★★☆	★★★★☆	★★★☆☆	★★★☆☆	数据工程巨大
+Power plants	★★★★★	★★★★★	★★★★★	★★★★★	2026 JPE 太近
+Semiconductors	★★★★☆	★★☆☆☆	★★★☆☆	★★★☆☆	actual yield/defect 不公开
+Pharma / biomanufacturing	★★★☆☆	★★★★☆	★★★★★	★★☆☆☆	sales ≠ production，plant mapping 难
+Shipbuilding	★★★★☆	★★★★☆	★☆☆☆☆	★★☆☆☆	ownership variation 太少
+下面我讲为什么我现在对前几个特别感兴趣。
+
+1. 我新发现：Hospital systems 其实非常适合这个 idea
+这个 setting 比我一开始想象得好。
+
+为什么它几乎天然对应我们的模型？
+想象一个 hospital system 有两个医院：
+
+A
+=
+experienced hospital
+A=experienced hospital
+B
+=
+newly acquired hospital
+.
+B=newly acquired hospital.
+对于同一种 procedure 
+p
+p：
+
+V
+o
+l
+u
+m
+e
+A
+,
+p
+,
+t
+→
+K
+n
+o
+w
+l
+e
+d
+g
+e
+A
+,
+p
+,
+t
++
+1
+Volume 
+A,p,t
+​
+ →Knowledge 
+A,p,t+1
+​
+ 
+这是 health economics 已经有大量依据的。
+
+例如高级癌症手术的研究利用 cancer clinic closures/openings 产生的外生 case-volume variation，发现 volume 增加显著改善 survival，结果与 learning-by-doing mechanism 一致。
+
+更早的 economics literature 也明确区分：
+
+static economies of scale
+static economies of scale
+和
+
+dynamic learning-by-doing
+,
+dynamic learning-by-doing,
+后者的含义正是：
+
+\text{today's volume} \rightarrow \text{tomorrow's quality}. \] :chatgpt-content-reference{index="1"} 所以第一条链： \[ Volume_A\rightarrow Knowledge_A
+你甚至不需要从零开始证明。
+
+真正没人充分回答的是第二条：
+K
+n
+o
+w
+l
+e
+d
+g
+e
+A
+⟶common ownership
+P
+e
+r
+f
+o
+r
+m
+a
+n
+c
+e
+B
+Knowledge 
+A
+​
+  
+⟶
+common ownership
+​
+ Performance 
+B
+​
+ 
+​
+ 
+也就是：
+
+如果 Mayo-like hospital A 做了很多某种 procedure，它积累出来的 operating knowledge，会不会改善同一 hospital system 里另一个医院 B 的表现？
+
+更关键：
+
+B 被收购之前和之后，这个 transmission 是否改变？
+
+这就直接变成我们想要的：
+
+V
+o
+l
+u
+m
+e
+A
+,
+t
+×
+S
+a
+m
+e
+O
+w
+n
+e
+r
+A
+B
+,
+t
+→
+O
+u
+t
+c
+o
+m
+e
+B
+,
+t
++
+1
+.
+Volume 
+A,t
+​
+ ×SameOwner 
+AB,t
+​
+ →Outcome 
+B,t+1
+​
+ .
+而且 hospital knowledge 里很多恰好不是 patent：
+
+surgical protocols
+nurse workflow
+complication management
+infection control
+scheduling
+post-operative care
+clinical pathways
+procurement / inventory
+quality-management systems
+这就是非常典型的：
+
+operational intangible capital
+.
+operational intangible capital
+​
+ .
+2. 最让我兴奋的是：医院的 ownership changes 非常多
+这解决了汽车最大的 weakness。
+
+一篇 Health Affairs 的研究利用 AHA 数据发现，仅 2010–2019 就有约 1,500 家医院成为 merger/acquisition targets，其中 55% 位于和 acquiring hospital 不同的 commuting zone。
+
+Cross-market merger 对我们尤其好。
+
+因为如果：
+
+A 在 Boston；
+B 在 Texas；
+merger 后同属于一个 hospital system；
+那么 Boston 当地发生一个：
+
+D
+e
+m
+a
+n
+d
+S
+h
+o
+c
+k
+A
+DemandShock 
+A
+​
+ 
+几乎不可能直接改变 Texas 的 patient demand。
+
+如果之后我们发现：
+
+D
+e
+m
+a
+n
+d
+S
+h
+o
+c
+k
+A
+→
+V
+o
+l
+u
+m
+e
+A
+↑
+→
+Q
+u
+a
+l
+i
+t
+y
+B
+↑
+,
+DemandShock 
+A
+​
+ →Volume 
+A
+​
+ ↑→Quality 
+B
+​
+ ↑,
+而且 只在 A、B common ownership 后出现，这个 identification 会很漂亮。
+
+甚至 cross-market merger 在这里不是 inconvenience，反而是 identification advantage。
+
+3. 而且现在连 ownership 数据都比以前好很多
+CMS 在 2026 年已经有公开的 Hospital Change of Ownership (CHOW) 数据。
+
+它包含：
+
+buyer legal name；
+seller legal name；
+acquisition / merger / consolidation 类型；
+effective date；
+目前覆盖 2016 年以后，而且是免费的 public-use data。
+
+CMS 还有 all-owner data，可以看到 hospital owner 和 ownership effective date。
+
+如果想往 2000 年代延伸，AHA Annual Survey / Landscape Change 数据又可以补 merger / parent-child relationships。
+
+所以 ownership side：
+
+S
+a
+m
+e
+O
+w
+n
+e
+r
+A
+B
+,
+t
+SameOwner 
+AB,t
+​
+ 
+是真的能构造出来的。
+
+4. 
+q
+A
+q 
+A
+​
+  也能观察，而且是 procedure-specific 的
+CMS 有公开的 Medicare inpatient hospital data，能做到：
+
+h
+o
+s
+p
+i
+t
+a
+l
+×
+D
+R
+G
+/
+s
+e
+r
+v
+i
+c
+e
+hospital×DRG/service
+层面，包括 utilization、payments、charges。
+
+因此可以定义：
+
+q
+A
+p
+t
+=
+number of procedure/service 
+p
+ performed by hospital 
+A
+.
+q 
+Apt
+​
+ =number of procedure/service p performed by hospital A.
+比如：
+
+CABG；
+hip replacement；
+knee replacement；
+cancer surgery；
+PCI/cardiac procedures；
+certain complex surgeries。
+所以不是笼统：
+
+H
+o
+s
+p
+i
+t
+a
+l
+A
+ 
+s
+i
+z
+e
+.
+Hospital 
+A
+​
+  size.
+而是非常具体：
+
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+A
+,
+p
+,
+t
+=
+∑
+τ
+<
+t
+P
+r
+o
+c
+e
+d
+u
+r
+e
+V
+o
+l
+u
+m
+e
+A
+,
+p
+,
+τ
+.
+Experience 
+A,p,t
+​
+ = 
+τ<t
+∑
+​
+ ProcedureVolume 
+A,p,τ
+​
+ .
+​
+ 
+这正是 learning-by-doing 的 state variable。
+
+5. Outcome 
+B
+B 也相当不错
+最理想的是 Medicare claims，可以得到：
+
+m
+o
+r
+t
+a
+l
+i
+t
+y
+,
+r
+e
+a
+d
+m
+i
+s
+s
+i
+o
+n
+,
+l
+e
+n
+g
+t
+h
+ 
+o
+f
+ 
+s
+t
+a
+y
+,
+c
+o
+m
+p
+l
+i
+c
+a
+t
+i
+o
+n
+s
+,
+s
+p
+e
+n
+d
+i
+n
+g
+.
+mortality,readmission,length of stay,complications,spending.
+如果暂时不拿 restricted claims，CMS public datasets + HCRIS 已经能提供大量 hospital-level utilization、cost、charges 和 financial information。HCRIS 的 hospital cost reports 从 1996 年就有，包含 utilization、cost/charges by cost center、financial statement data。
+
+正式 paper 我还是更希望拿 claims。
+
+这样最漂亮的：
+
+Y
+B
+,
+p
+,
+t
+=
+30
+-day mortality
+Y 
+B,p,t
+​
+ =30-day mortality
+或者：
+
+r
+e
+a
+d
+m
+i
+s
+s
+i
+o
+n
+B
+,
+p
+,
+t
+.
+readmission 
+B,p,t
+​
+ .
+这样结果不是 accounting productivity，而是真正：
+
+learning improves product quality
+.
+learning improves product quality.
+6. 一个我现在非常喜欢的 hospital design
+设 A 和 B 后来被放进同一个 system。
+
+估计：
+
+Y
+B
+p
+,
+t
++
+h
+=
+β
+(
+S
+h
+o
+c
+k
+A
+p
+,
+t
+×
+P
+o
+s
+t
+C
+o
+m
+m
+o
+n
+O
+w
+n
+e
+r
+s
+h
+i
+p
+A
+B
+,
+t
+×
+R
+e
+l
+a
+t
+e
+d
+P
+r
+o
+c
+e
+d
+u
+r
+e
+p
+)
++
+F
+E
++
+ε
+.
+Y 
+Bp,t+h
+​
+ =β(Shock 
+Ap,t
+​
+ ×PostCommonOwnership 
+AB,t
+​
+ ×RelatedProcedure 
+p
+​
+ )+FE+ε.
+其中：
+
+S
+h
+o
+c
+k
+A
+p
+,
+t
+→
+V
+o
+l
+u
+m
+e
+A
+p
+,
+t
+Shock 
+Ap,t
+​
+ →Volume 
+Ap,t
+​
+ 
+但不直接影响 B。
+
+最漂亮的 shock 候选是：
+
+competitor closure around A
+如果 A 附近另外一家做 cancer surgery 的 clinic/hospital 关了：
+
+C
+o
+m
+p
+e
+t
+i
+t
+o
+r
+C
+l
+o
+s
+u
+r
+e
+A
+→
+V
+o
+l
+u
+m
+e
+A
+↑
+.
+CompetitorClosure 
+A
+​
+ →Volume 
+A
+​
+ ↑.
+这种 identification 不是我现编的——已有 hospital learning paper 正是利用 clinic openings/closures 来产生 exogenous procedure volume variation。
+
+但你的第二阶段完全不同：
+
+Does that newly generated experience spill over to B only after A and B share an owner?
+Does that newly generated experience spill over to B only after A and B share an owner?
+​
+ 
+这个我目前非常喜欢。
+
+7. 更漂亮：做 teacher–student
+如果：
+
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+A
+≫
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+B
+,
+Experience 
+A
+​
+ ≫Experience 
+B
+​
+ ,
+A 就是 teacher。
+
+于是预测：
+
+V
+o
+l
+u
+m
+e
+S
+h
+o
+c
+k
+A
+→
+O
+u
+t
+c
+o
+m
+e
+B
+↑
+VolumeShock 
+A
+​
+ →Outcome 
+B
+​
+ ↑
+特别强。
+
+但是：
+
+V
+o
+l
+u
+m
+e
+S
+h
+o
+c
+k
+B
+→
+O
+u
+t
+c
+o
+m
+e
+A
+VolumeShock 
+B
+​
+ →Outcome 
+A
+​
+ 
+弱很多。
+
+并且随着 B 自己慢慢积累 experience：
+
+∂
+Y
+B
+∂
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+A
+↓
+.
+∂Experience 
+A
+​
+ 
+∂Y 
+B
+​
+ 
+​
+ ↓.
+这就给出一个完整的 learning life cycle：
+
+Common ownership matters most when an inexperienced asset joins an organization containing an experienced related asset.
+Common ownership matters most when an inexperienced asset joins an organization containing an experienced related asset.
+​
+ 
+我觉得这个 hypothesis 比：
+
+acquired hospitals improve after merger
+
+深很多。
+
+8. Hospital literature 会不会太 crowded？
+这是我要提醒你的。
+
+医院 merger literature 非常大。
+
+已经有 paper 发现 independent hospital 被 system 收购后 operating costs 会下降，尤其是 personnel、capital、financing costs；但他们没有发现明确的 quality improvement。
+
+也有最新 work 做 nursing-home mergers、hospital consolidation 与质量。
+
+所以绝对不能写成：
+
+Do hospital mergers improve efficiency?
+
+这个已经很 crowded。
+
+但我目前没有看到这些 paper 做：
+
+exogenous activity at existing asset A
+→
+performance at acquired asset B
+exogenous activity at existing asset A→performance at acquired asset B
+​
+ 
+并且用这个证明：
+
+o
+w
+n
+e
+r
+s
+h
+i
+p
+c
+h
+a
+n
+g
+e
+s
+t
+h
+e
+t
+r
+a
+n
+s
+m
+i
+s
+s
+i
+o
+n
+o
+f
+p
+r
+o
+d
+u
+c
+t
+i
+o
+n
+−
+g
+e
+n
+e
+r
+a
+t
+e
+d
+k
+n
+o
+w
+l
+e
+d
+g
+e
+.
+ownershipchangesthetransmissionofproduction−generatedknowledge.
+​
+ 
+这仍然是很不一样的问题。
+
+9. Automotive：数据结构甚至比我原来想的更漂亮
+汽车仍然是我第二喜欢的。
+
+NHTSA 的 Early Warning Reporting 数据有个非常夸张的优点：
+
+manufacturers quarterly report production data。
+
+而 light-vehicle production 的 reporting template 本身就包括：
+
+Make
+Make
+Model
+Model
+Model Year
+Model Year
+Vehicle Type
+Vehicle Type
+Platform
+Platform
+\text{Total Production}. \] :chatgpt-content-reference{index="12"} 这意味着 \(q_A\) 根本不需要用 sales proxy： \[ \boxed{ q_{A,t}=\text{actual reported vehicle production} }
+而且是 model-level。
+
+这非常少见。
+
+10. 更妙的是 quality data 也是同一个 regulator
+NHTSA public database 可以 model-year × make × model 查：
+
+consumer complaints；
+recalls； 
+EWR 的 public search 还包括：
+
+death/injury；
+property-damage claims；
+light-vehicle production。 
+于是可以构造：
+
+D
+e
+f
+e
+c
+t
+R
+a
+t
+e
+i
+,
+t
+=
+C
+o
+m
+p
+l
+a
+i
+n
+t
+s
+i
+,
+t
+P
+r
+o
+d
+u
+c
+t
+i
+o
+n
+i
+,
+t
+DefectRate 
+i,t
+​
+ = 
+Production 
+i,t
+​
+ 
+Complaints 
+i,t
+​
+ 
+​
+ 
+或者：
+
+R
+e
+c
+a
+l
+l
+A
+f
+f
+e
+c
+t
+e
+d
+U
+n
+i
+t
+s
+/
+P
+r
+o
+d
+u
+c
+t
+i
+o
+n
+.
+RecallAffectedUnits/Production.
+更强的是：
+
+S
+e
+v
+e
+r
+e
+S
+a
+f
+e
+t
+y
+E
+v
+e
+n
+t
+s
+/
+P
+r
+o
+d
+u
+c
+t
+i
+o
+n
+.
+SevereSafetyEvents/Production.
+所以数据结构就是：
+
+P
+r
+o
+d
+u
+c
+t
+i
+o
+n
+→
+f
+u
+t
+u
+r
+e
+ 
+d
+e
+f
+e
+c
+t
+s
+/
+r
+e
+l
+i
+a
+b
+i
+l
+i
+t
+y
+Production→future defects/reliability
+​
+ 
+简直就是 rocket paper 的汽车版本。
+
+11. Auto 的 dream regression
+假设公司 A 收购公司 B。
+
+例如 A 有 mature model 
+i
+i，B 有 newer related model 
+j
+j。
+
+做：
+
+Q
+u
+a
+l
+i
+t
+y
+j
+,
+t
++
+1
+=
+β
+log
+⁡
+P
+r
+o
+d
+u
+c
+t
+i
+o
+n
+i
+,
+t
+×
+S
+a
+m
+e
+O
+w
+n
+e
+r
+i
+j
+,
+t
+×
+R
+e
+l
+a
+t
+e
+d
+n
+e
+s
+s
+i
+j
++
+F
+E
++
+ϵ
+.
+Quality 
+j,t+1
+​
+ =βlogProduction 
+i,t
+​
+ ×SameOwner 
+ij,t
+​
+ ×Relatedness 
+ij
+​
+ +FE+ϵ.
+Prediction：
+
+β
+>
+0.
+β>0.
+然后继续做：
+
+β
+e
+x
+p
+e
+r
+i
+e
+n
+c
+e
+d
+→
+i
+n
+e
+x
+p
+e
+r
+i
+e
+n
+c
+e
+d
+>
+β
+i
+n
+e
+x
+p
+e
+r
+i
+e
+n
+c
+e
+d
+→
+e
+x
+p
+e
+r
+i
+e
+n
+c
+e
+d
+.
+β 
+experienced→inexperienced
+​
+ >β 
+inexperienced→experienced
+​
+ .
+而且 ideally：
+
+β
+β
+对 engineering-intensive defects 强，
+
+但对 unrelated problems 弱。
+
+12. 汽车现在唯一让我担心的是 identification，不是 data
+这里最大的坑是：
+
+P
+r
+o
+d
+u
+c
+t
+i
+o
+n
+A
+Production 
+A
+​
+ 
+不是随机的。
+
+好产品卖得多：
+
+D
+e
+m
+a
+n
+d
+A
+↑
+⇒
+P
+r
+o
+d
+u
+c
+t
+i
+o
+n
+A
+↑
+.
+Demand 
+A
+​
+ ↑⇒Production 
+A
+​
+ ↑.
+好 management 又可能同时改善 A 和 B。
+
+所以必须找到：
+
+product-A-specific production shock
+product-A-specific production shock
+​
+ 
+我目前会继续查这些候选：
+
+rival recall shocks
+rival recall shocks
+tariff/import shocks
+tariff/import shocks
+fuel-price exposure
+×
+p
+r
+e
+-existing MPG
+fuel-price exposure×pre-existing MPG
+model-specific subsidy eligibility
+model-specific subsidy eligibility
+supply disruptions elsewhere in the segment
+.
+supply disruptions elsewhere in the segment.
+但这里还没有一个让我像 hospital competitor closure 那么满意的 IV。
+
+第二个问题是：到底有多少 clean ownership switches？ 这个要实际构造 Ford/JLR、Volvo、Chrysler/Fiat、FCA/PSA 等事件之后才能知道 effective treated clusters 是否够。这应该是 auto feasibility test 的第一步，而不是先写 model。
+
+13. Power plants：最容易马上验证我们的 mechanism
+如果你想知道这个 idea “数据里到底有没有东西”，power plants 是最快的。
+
+公开数据几乎完美。
+
+EIA-860 是 generator-level，有：
+
+technology；
+prime mover；
+capacity；
+in-service date；
+owner/operator；
+shared ownership。 
+EIA-923 有 monthly：
+
+generation,\quad fuel\ consumption,\quad fuel\ costs. \] :chatgpt-content-reference{index="16"} EPA CAMPD 更夸张，从 1995 左右开始就有 unit-level **hourly** \[ GrossLoad
+和：
+
+H
+e
+a
+t
+I
+n
+p
+u
+t
+.
+HeatInput.
+因此可以直接算：
+
+H
+e
+a
+t
+R
+a
+t
+e
+=
+H
+e
+a
+t
+I
+n
+p
+u
+t
+E
+l
+e
+c
+t
+r
+i
+c
+i
+t
+y
+O
+u
+t
+p
+u
+t
+,
+HeatRate= 
+ElectricityOutput
+HeatInput
+​
+ ,
+就是非常接近 physical productivity 的东西。
+
+14. Power plant 的 identification 可以非常漂亮
+假设 owner 收购 B 以后，同时拥有另一个市场的 A。
+
+A 所在地区突然：
+
+T
+e
+m
+p
+e
+r
+a
+t
+u
+r
+e
+S
+h
+o
+c
+k
+→
+E
+l
+e
+c
+t
+r
+i
+c
+i
+t
+y
+D
+e
+m
+a
+n
+d
+A
+↑
+→
+G
+e
+n
+e
+r
+a
+t
+i
+o
+n
+A
+↑
+.
+TemperatureShock→ElectricityDemand 
+A
+​
+ ↑→Generation 
+A
+​
+ ↑.
+B 在另外一个 electricity market，所以这个天气不直接影响 B。
+
+然后看：
+
+G
+e
+n
+e
+r
+a
+t
+i
+o
+n
+S
+h
+o
+c
+k
+A
+×
+S
+a
+m
+e
+O
+w
+n
+e
+r
+A
+B
+→
+H
+e
+a
+t
+R
+a
+t
+e
+B
+↓
+?
+GenerationShock 
+A
+​
+ ×SameOwner 
+AB
+​
+ →HeatRate 
+B
+​
+ ↓?
+如果 A 和 B 是：
+
+same fuel；
+same prime mover；
+same turbine technology；
+effect 应该强。
+
+不相关 plant：
+
+e
+f
+f
+e
+c
+t
+≈
+0.
+effect≈0.
+这个 empirical design 是我目前所有 setting 里最干净的。
+
+但是这里有一只巨大的大象
+Demirer & Karaduman 的 JPE 2026 刚刚发表：
+
+Do Mergers and Acquisitions Improve Efficiency? Evidence from Power Plants.
+
+他们已经用了 U.S. power plant 的 hourly physical productivity 和 thousands of ownership changes，发现被收购 plant 平均 efficiency 提升约 2%，direct ownership change 下约 5%，并把大部分 improvement 归因于 productive efficiency。
+
+更麻烦的是，他们的 replication data 已经公开。
+
+所以我会：
+
+用 power plant 做 pilot，不一定用它做最终 paper。
+用 power plant 做 pilot，不一定用它做最终 paper。
+​
+ 
+因为它能最快回答：
+
+我们要找的 cross-asset learning effect 到底有没有？
+
+如果有，再找一个更 novel 的 setting。
+
+15. Defense / aerospace：如果做出来，和你的 original idea 最契合
+这个 setting 的 upside 还是很高。
+
+q
+A
+q 
+A
+​
+ 
+USAspending 有官方 API，可以下载 contract/transaction data；award 信息里有：
+
+recipient；
+amount；
+transaction history；
+product/service code。 
+P
+e
+r
+f
+o
+r
+m
+a
+n
+c
+e
+B
+Performance 
+B
+​
+ 
+GAO 已经连续 24 年做 Weapon Systems Annual Assessment。2026 年版本覆盖 104 个高成本 weapon programs；历史版本大量记录：
+
+c
+o
+s
+t
+,
+ 
+s
+c
+h
+e
+d
+u
+l
+e
+,
+ 
+q
+u
+a
+n
+t
+i
+t
+y
+,
+cost, schedule, quantity,
+以及：
+
+technology,\ design,\ manufacturing\ knowledge. \] :chatgpt-content-reference{index="20"} DoD 的 Selected Acquisition Reports 本身就是 annual cost / schedule / performance status。:chatgpt-content-reference{index="21"} 所以可以得到： \[ q_A=\text{procurement / delivery activity of Program A}
+和：
+
+P
+e
+r
+f
+o
+r
+m
+a
+n
+c
+e
+B
+=
+{
+u
+n
+i
+t
+ 
+c
+o
+s
+t
+s
+c
+h
+e
+d
+u
+l
+e
+ 
+s
+l
+i
+p
+c
+o
+s
+t
+ 
+g
+r
+o
+w
+t
+h
+d
+e
+l
+i
+v
+e
+r
+y
+ 
+d
+e
+l
+a
+y
+t
+e
+c
+h
+n
+i
+c
+a
+l
+ 
+m
+a
+t
+u
+r
+i
+t
+y
+Performance 
+B
+​
+ = 
+⎩
+⎨
+⎧
+​
+  
+unit cost
+schedule slip
+cost growth
+delivery delay
+technical maturity
+​
+ 
+16. Defense 最漂亮的问题可以这样写
+比如 Lockheed / Boeing / Northrop / Raytheon 某个 business line 有：
+
+P
+r
+o
+g
+r
+a
+m
+ 
+A
+Program A
+大量生产。
+
+然后它通过 acquisition 获得一个 related：
+
+P
+r
+o
+g
+r
+a
+m
+ 
+B
+.
+Program B.
+问题：
+
+A 的 production experience 是否开始改善 B 的 cost/schedule performance？
+
+也就是：
+
+P
+r
+o
+c
+u
+r
+e
+m
+e
+n
+t
+S
+h
+o
+c
+k
+A
+×
+P
+o
+s
+t
+M
+e
+r
+g
+e
+r
+×
+T
+e
+c
+h
+n
+i
+c
+a
+l
+R
+e
+l
+a
+t
+e
+d
+n
+e
+s
+s
+A
+B
+→
+C
+o
+s
+t
+G
+r
+o
+w
+t
+h
+B
+↓
+.
+ProcurementShock 
+A
+​
+ ×PostMerger×TechnicalRelatedness 
+AB
+​
+ →CostGrowth 
+B
+​
+ ↓.
+这个 paper 一旦成立，故事会非常强，因为：
+
+G
+o
+v
+e
+r
+n
+m
+e
+n
+t
+D
+e
+m
+a
+n
+d
+→
+O
+r
+g
+a
+n
+i
+z
+a
+t
+i
+o
+n
+a
+l
+C
+a
+p
+i
+t
+a
+l
+→
+C
+r
+o
+s
+s
+P
+r
+o
+g
+r
+a
+m
+S
+p
+i
+l
+l
+o
+v
+e
+r
+GovernmentDemand→OrganizationalCapital→CrossProgramSpillover
+又回到了你最初那篇 rocket paper。
+
+Defense 的问题是工作量
+你需要自己建立：
+
+P
+r
+o
+g
+r
+a
+m
+↔
+P
+r
+i
+m
+e
+ 
+C
+o
+n
+t
+r
+a
+c
+t
+o
+r
+↔
+B
+u
+s
+i
+n
+e
+s
+s
+ 
+U
+n
+i
+t
+↔
+M
+&
+A
+Program↔Prime Contractor↔Business Unit↔M&A
+的历史 mapping。
+
+而 USAspending 的 dollars 也不是：
+
+physical units produced
+.
+physical units produced.
+SAR / GAO 才更接近 quantity 和 deliveries。
+
+所以它是：
+
+high upside, high RA-hours
+high upside, high RA-hours
+​
+ 
+的项目。
+
+不是不能做，而是可能是 6–12 个月的数据建设。
+
+17. Semiconductor：经济学上可能是最梦幻的 setting
+这里所有机制都成立：
+
+w
+a
+f
+e
+r
+ 
+s
+t
+a
+r
+t
+s
+→
+y
+i
+e
+l
+d
+ 
+l
+e
+a
+r
+n
+i
+n
+g
+wafer starts→yield learning
+p
+r
+o
+c
+e
+s
+s
+ 
+e
+x
+p
+e
+r
+i
+e
+n
+c
+e
+→
+d
+e
+f
+e
+c
+t
+ 
+r
+e
+d
+u
+c
+t
+i
+o
+n
+process experience→defect reduction
+n
+o
+d
+e
+ 
+r
+a
+m
+p
+→
+c
+o
+s
+t
+ 
+d
+e
+c
+l
+i
+n
+e
+.
+node ramp→cost decline.
+而且 acquisitions / fab transfers / common ownership 很多。
+
+商业数据库也确实非常深。
+
+SEMI World Fab Forecast 当前覆盖 1,600+ facilities，line-by-line 有：
+
+production capacity；
+fab ramp；
+product type；
+technology node；
+wafer size；
+capex。 
+TechInsights 新的 manufacturing database 从 2015 年开始，quarterly 有：
+
+c
+a
+p
+a
+c
+i
+t
+y
+,
+ 
+p
+r
+o
+d
+u
+c
+t
+i
+o
+n
+,
+ 
+s
+a
+l
+e
+s
+,
+ 
+c
+a
+p
+e
+x
+capacity, production, sales, capex
+按：
+
+node\times fab\ location. \] :chatgpt-content-reference{index="23"} TrendForce 更细，可以到： - fab/node capacity； - utilization； - wafer input； - ASP； - customer wafer input by node。 但价格也非常夸张，Foundry Diamond 目前标价 \$75,000。:chatgpt-content-reference{index="24"} --- ## 真正的问题不是 production，而是 yield 我们真正想看的 \(B\) 是： \[ Yield_B
+D
+e
+f
+e
+c
+t
+R
+a
+t
+e
+B
+DefectRate 
+B
+​
+ 
+C
+o
+s
+t
+P
+e
+r
+G
+o
+o
+d
+D
+i
+e
+B
+.
+CostPerGoodDie 
+B
+​
+ .
+但这些通常是 fab 最核心的商业秘密。
+
+公开/商业 databases 更多给：
+
+c
+a
+p
+a
+c
+i
+t
+y
+,
+ 
+u
+t
+i
+l
+i
+z
+a
+t
+i
+o
+n
+,
+ 
+w
+a
+f
+e
+r
+ 
+i
+n
+p
+u
+t
+,
+ 
+t
+e
+c
+h
+n
+o
+l
+o
+g
+y
+ 
+n
+o
+d
+e
+,
+capacity, utilization, wafer input, technology node,
+而不是 realized yield。
+
+所以如果没有：
+
+industry partner；
+proprietary manufacturing database；
+某家 semiconductor company 内部数据；
+我目前不会把这个放第一优先级。
+
+如果哪天你能拿到 fab × quarter actual yield，我会马上把 semiconductor 提到第一。
+
+18. Pharma：数据很多，但变量之间“接不上”
+Medicaid 数据非常夸张，NDC × state × quarter 有：
+
+U
+n
+i
+t
+s
+R
+e
+i
+m
+b
+u
+r
+s
+e
+d
+,
+P
+r
+e
+s
+c
+r
+i
+p
+t
+i
+o
+n
+s
+,
+P
+a
+y
+m
+e
+n
+t
+s
+.
+UnitsReimbursed,Prescriptions,Payments.
+例如 2024 数据本身就超过 500 万 rows，而且这些数据可以往 1990s 追。
+
+FDA 又有：
+
+drug recalls，从 2004 起；
+drug shortages，从 2012 起；
+registered manufacturing establishments。
+所以看起来是：
+
+S
+a
+l
+e
+s
+A
+→
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+A
+→
+R
+e
+c
+a
+l
+l
+B
+/
+S
+h
+o
+r
+t
+a
+g
+e
+B
+.
+Sales 
+A
+​
+ →Experience 
+A
+​
+ →Recall 
+B
+​
+ /Shortage 
+B
+​
+ .
+问题是：
+
+S
+a
+l
+e
+s
+≠
+P
+r
+o
+d
+u
+c
+t
+i
+o
+n
+.
+Sales
+
+=Production.
+更严重的是：
+
+L
+a
+b
+e
+l
+O
+w
+n
+e
+r
+≠
+A
+c
+t
+u
+a
+l
+M
+a
+n
+u
+f
+a
+c
+t
+u
+r
+e
+r
+.
+LabelOwner
+
+=ActualManufacturer.
+大量药品 outsourced 给 CDMO。
+
+所以如果不能构造：
+
+N
+D
+C
+→
+a
+c
+t
+u
+a
+l
+ 
+m
+a
+n
+u
+f
+a
+c
+t
+u
+r
+i
+n
+g
+ 
+s
+i
+t
+e
+t
+NDC→actual manufacturing site 
+t
+​
+ 
+这个 setting 很容易 measurement error 爆炸。
+
+暂时放第二梯队。
+
+19. Shipbuilding 我现在基本会放掉
+它的 learning curve 非常漂亮，成本、delivery delays 又很重要。
+
+当前 Navy programs 里也确实存在非常明显的 delays 和 cost growth。
+
+但 corporate boundary variation 太弱。
+
+例如当前 submarine production 高度集中在 General Dynamics Electric Boat 和 Huntington Ingalls Newport News；很多大型 shipyards 长期稳定地属于 General Dynamics 或 HII。
+
+所以你能看到很多：
+
+l
+e
+a
+r
+n
+i
+n
+g
+learning
+却看不到足够多：
+
+S
+e
+p
+a
+r
+a
+t
+e
+O
+w
+n
+e
+r
+s
+h
+i
+p
+→
+C
+o
+m
+m
+o
+n
+O
+w
+n
+e
+r
+s
+h
+i
+p
+.
+SeparateOwnership→CommonOwnership.
+这对我们这个 paper 是致命的。
+
+20. 所以我现在最想跑的两个 feasibility test 是这两个
+A. Hospital
+先完全不用 restricted Medicare data。
+
+构造：
+
+H
+o
+s
+p
+i
+t
+a
+l
+×
+S
+e
+r
+v
+i
+c
+e
+×
+Y
+e
+a
+r
+Hospital×Service×Year
+panel。
+
+用：
+
+CMS Provider-by-Service volume；
+CMS CHOW ownership events；
+HCRIS；
+public hospital quality measures。
+然后只做最核心的一张图：
+
+∂
+P
+e
+r
+f
+o
+r
+m
+a
+n
+c
+e
+B
+∂
+V
+o
+l
+u
+m
+e
+A
+∂Volume 
+A
+​
+ 
+∂Performance 
+B
+​
+ 
+​
+ 
+在：
+
+t
+<
+T
+a
+c
+q
+u
+i
+s
+i
+t
+i
+o
+n
+t<T 
+acquisition
+​
+ 
+和：
+
+t
+>
+T
+a
+c
+q
+u
+i
+s
+i
+t
+i
+o
+n
+t>T 
+acquisition
+​
+ 
+是不是明显变化。
+
+如果能看到：
+
+β
+p
+o
+s
+t
+>
+β
+p
+r
+e
+,
+β 
+post
+​
+ >β 
+pre
+​
+ ,
+再去申请 Medicare claims。
+
+B. Power plants
+直接拿 JPE 2026 replication data + EIA/EPA。
+
+目标不是 paper。
+
+就是回答：
+
+Is there evidence of an “internal learning market”?
+Is there evidence of an “internal learning market”?
+​
+ 
+比如 A 因当地 weather/load shock 被迫多运行 500 小时之后：
+
+同 owner 的、技术类似、但位于另一个 market 的 B：
+
+H
+e
+a
+t
+R
+a
+t
+e
+B
+HeatRate 
+B
+​
+ 
+有没有随后下降？
+
+如果：
+
+β
+>
+0
+β>0
+非常稳定，而且只有 common ownership 下存在，那么我们就知道 idea 不是一个漂亮的理论故事，而是真有 empirical bite。
+
+JPE 页面明确提供了 replication code/data，所以这个 feasibility test 理论上可以非常快开始。
+
+我现在反而最看好 hospital
+如果把最终 paper 的题目想象出来，我会写：
+
+Learning Inside the Firm
+Corporate Boundaries and the Production of Organizational Capital
+然后 hospital 只是 setting。
+
+核心不是：
+
+Hospital mergers improve care.
+
+而是：
+
+Does experience generated at one asset become more valuable when related assets share a corporate owner?
+Does experience generated at one asset become more valuable when related assets share a corporate owner?
+​
+ 
+identification 甚至可以专门利用 cross-market acquisitions：
+
+L
+o
+c
+a
+l
+D
+e
+m
+a
+n
+d
+S
+h
+o
+c
+k
+A
+×
+P
+o
+s
+t
+A
+c
+q
+u
+i
+s
+i
+t
+i
+o
+n
+A
+B
+×
+P
+r
+o
+c
+e
+d
+u
+r
+e
+R
+e
+l
+a
+t
+e
+d
+n
+e
+s
+s
+→
+O
+u
+t
+c
+o
+m
+e
+B
+.
+LocalDemandShock 
+A
+​
+ ×PostAcquisition 
+AB
+​
+ ×ProcedureRelatedness→Outcome 
+B
+​
+ .
+这跟现有 hospital-merger paper 的“target merger 后价格、cost、mortality 怎么变”在 estimand 上都不一样。
+
+而且 hospital setting 有一个汽车和 semiconductor 没有的巨大优势：learning-by-doing 对 quality 的 first-stage literature 已经非常成熟，但 ownership 是否决定这种 learning 能否跨 asset 流动，仍然是一个自然的 unanswered question。
+
+所以如果我们真的要开始做，我建议下一步不要再继续泛泛找行业了。我可以直接替你做一份 Hospital feasibility memo：把可以免费下载的 CMS 数据逐个列出来，画出最终 panel 的 observation unit，找出 3–4 种可以作为 
+A
+A 的外生 volume shock，并把主 regression、event study 和 teacher–student test 全部写到可以开始 RA 数据工作的程度。
+
+同意，给我memo
+
+Worked for 3m 31s
+可以。我把它先写成一份真正可以拿去和 faculty / RA 讨论的 research feasibility memo。我查完数据后，对这个 setting 的判断是：值得马上做 public-data pilot；真正的 paper 如果 first-pass signal 好，再申请 Medicare claims。
+
+Research Feasibility Memo
+Learning Inside the Firm: Corporate Boundaries and the Production of Organizational Capital
+1. Core question
+Do acquisitions create value because common ownership allows production-generated knowledge to spill across related operating units?
+
+最简洁的经济机制是：
+
+P
+r
+o
+d
+u
+c
+t
+i
+o
+n
+A
+,
+t
+→
+K
+n
+o
+w
+l
+e
+d
+g
+e
+A
+,
+t
++
+1
+Production 
+A,t
+​
+ →Knowledge 
+A,t+1
+​
+ 
+而 acquired hospital 
+B
+B 的技术/管理表现可能受 sister hospital 
+A
+A 的经验影响：
+
+K
+n
+o
+w
+l
+e
+d
+g
+e
+A
+,
+t
+⟶common ownership
+P
+e
+r
+f
+o
+r
+m
+a
+n
+c
+e
+B
+,
+t
++
+1
+.
+Knowledge 
+A,t
+​
+  
+⟶
+common ownership
+​
+ Performance 
+B,t+1
+​
+ .
+所以 merger 的作用不是简单：
+
+K
+A
++
+K
+B
+K 
+A
+​
+ +K 
+B
+​
+ 
+而是改变 intangible capital 的 law of motion：
+
+M
+e
+r
+g
+e
+r
+→
+internalization of learning spillovers
+→
+different production/knowledge creation
+→
+future productivity
+.
+Merger→internalization of learning spillovers→different production/knowledge creation→future productivity.
+​
+ 
+这正是从 space-launch paper 出发最值得拿走的 insight：原 paper 在 ULA merger 后允许 Atlas V 与 Delta IV cross-learn，并把这种跨产品 learning synergy 作为 merger counterfactual 的核心部分。
+
+2. 为什么 hospital 是一个非常好的实验室
+医院本质上是 multi-product production organizations。
+
+对一个 procedure 
+p
+p，医院通过不断治疗病人积累：
+
+e
+h
+p
+t
+=
+procedure-specific organizational experience
+.
+e 
+hpt
+​
+ =procedure-specific organizational experience.
+它包含的不只是医生个人 skill，也包括：
+
+surgical workflow
++
+nursing protocol
++
+post-op management
++
+infection control
++
+scheduling
++
+diagnostic routines
+.
+surgical workflow+nursing protocol+post-op management+infection control+scheduling+diagnostic routines.
+已有 causal evidence 说明 volume 本身确实可能产生 learning。Avdic, Lundborg and Vikström 利用 cancer clinic openings/closures 造成的外生手术量变化，发现更高 case volume 改善 advanced cancer surgery survival，并认为 learning-by-doing 是重要机制。
+
+但已有 literature 基本问的是
+
+V
+o
+l
+u
+m
+e
+A
+→
+Q
+u
+a
+l
+i
+t
+y
+A
+.
+Volume 
+A
+​
+ →Quality 
+A
+​
+ .
+我们要问：
+
+V
+o
+l
+u
+m
+e
+A
+→
+Q
+u
+a
+l
+i
+t
+y
+B
+Volume 
+A
+​
+ →Quality 
+B
+​
+ 
+​
+ 
+以及最关键的：
+
+∂
+Q
+u
+a
+l
+i
+t
+y
+B
+∂
+V
+o
+l
+u
+m
+e
+A
+ 是否在 
+A
+,
+B
+ 进入 common ownership 后上升？
+∂Volume 
+A
+​
+ 
+∂Quality 
+B
+​
+ 
+​
+  是否在 A,B 进入 common ownership 后上升？
+​
+ 
+这才是 novel object。
+
+3. 为什么 ownership variation 足够大
+美国医院 consolidation 很多，而且有大量 cross-market acquisitions，这对 identification 特别有利。
+
+Health Affairs 的研究发现，2010–2019 年有约 1,500 家医院成为 merger/acquisition target，其中 55% 的 target 与 acquirer 位于不同 commuting zone。
+
+这很关键。
+
+假设：
+
+A
+=
+Boston hospital
+,
+B
+=
+Texas hospital
+.
+A=Boston hospital,B=Texas hospital.
+收购前：
+
+O
+w
+n
+e
+r
+A
+≠
+O
+w
+n
+e
+r
+B
+.
+Owner 
+A
+​
+ 
+
+=Owner 
+B
+​
+ .
+收购后：
+
+O
+w
+n
+e
+r
+A
+=
+O
+w
+n
+e
+r
+B
+.
+Owner 
+A
+​
+ =Owner 
+B
+​
+ .
+如果 Boston 当地出现一个只影响 
+A
+A patient volume 的 shock，而之后 Texas 的 
+B
+B 质量改善，那么它很难解释为 local patient competition 或共同当地 demand shock。
+
+这正是 cross-market acquisition 的价值。
+
+4. 我建议的基本 observation unit
+最终 panel 应该做成：
+
+H
+o
+s
+p
+i
+t
+a
+l
+ 
+B
+×
+P
+r
+o
+c
+e
+d
+u
+r
+e
+ 
+p
+×
+Y
+e
+a
+r
+ 
+t
+Hospital B×Procedure p×Year t
+​
+ 
+其中 
+B
+B 是 target / student hospital。
+
+对于每一个 
+B
+,
+p
+,
+t
+B,p,t，构造 acquiring system 中其他医院的 experience：
+
+P
+e
+e
+r
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+B
+p
+t
+=
+∑
+A
+∈
+S
+y
+s
+t
+e
+m
+(
+B
+)
+,
+A
+≠
+B
+w
+A
+B
+V
+o
+l
+u
+m
+e
+A
+p
+t
+.
+PeerExperience 
+Bpt
+​
+ = 
+A∈System(B),A
+
+=B
+∑
+​
+ w 
+AB
+​
+ Volume 
+Apt
+​
+ .
+权重可以有三个版本：
+
+w
+A
+B
+=
+1
+,
+w 
+AB
+​
+ =1,
+或者取最有经验的 teacher：
+
+P
+e
+e
+r
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+B
+p
+t
+=
+max
+⁡
+A
+∈
+S
+y
+s
+t
+e
+m
+(
+B
+)
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+A
+p
+t
+,
+PeerExperience 
+Bpt
+​
+ = 
+A∈System(B)
+max
+​
+ Experience 
+Apt
+​
+ ,
+或者按 technological/clinical relatedness 加权。
+
+我更喜欢第二个。
+
+这样每个 acquired hospital 都有一个非常直观的：
+
+Teacher hospital
+Teacher hospital
+​
+ 
+和：
+
+Student hospital
+.
+Student hospital
+​
+ .
+5. 第一篇主图应该非常简单
+定义：
+
+G
+a
+p
+B
+p
+=
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+p
+,
+p
+r
+e
+T
+e
+a
+c
+h
+e
+r
+−
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+p
+,
+p
+r
+e
+B
+.
+Gap 
+Bp
+​
+ =Experience 
+p,pre
+Teacher
+​
+ −Experience 
+p,pre
+B
+​
+ .
+然后比较 acquisition 前后：
+
+Q
+u
+a
+l
+i
+t
+y
+B
+p
+,
+t
+.
+Quality 
+Bp,t
+​
+ .
+最漂亮的 picture 是：
+
+Large teacher–student gap
+target 在 acquisition 后：
+
+m
+o
+r
+t
+a
+l
+i
+t
+y
+↓
+,
+c
+o
+m
+p
+l
+i
+c
+a
+t
+i
+o
+n
+s
+↓
+.
+mortality↓,complications↓.
+Small/no gap
+变化弱很多。
+
+因此：
+
+A
+c
+q
+u
+i
+s
+i
+t
+i
+o
+n
+ 
+g
+a
+i
+n
+s
+↑
+in
+T
+e
+a
+c
+h
+e
+r
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+−
+S
+t
+u
+d
+e
+n
+t
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+.
+Acquisition gains↑inTeacherExperience−StudentExperience.
+​
+ 
+这已经比普通：
+
+acquired hospitals improve after mergers
+
+有明显不同。
+
+6. Baseline reduced-form design
+先不用 IV。
+
+我会估：
+
+Y
+B
+p
+t
+=
+α
+B
+p
++
+γ
+p
+t
++
+∑
+k
+≠
+−
+1
+β
+k
+1
+{
+E
+v
+e
+n
+t
+T
+i
+m
+e
+=
+k
+}
+×
+T
+e
+a
+c
+h
+e
+r
+E
+x
+p
+e
+r
+t
+i
+s
+e
+B
+p
+,
+p
+r
+e
++
+X
+B
+t
+Γ
++
+ε
+B
+p
+t
+.
+Y 
+Bpt
+​
+ =α 
+Bp
+​
+ +γ 
+pt
+​
+ + 
+k
+
+=−1
+∑
+​
+ β 
+k
+​
+ 1{EventTime=k}×TeacherExpertise 
+Bp,pre
+​
+ +X 
+Bt
+​
+ Γ+ε 
+Bpt
+​
+ .
+其中：
+
+α
+B
+p
+α 
+Bp
+​
+ ：hospital × procedure FE；
+γ
+p
+t
+γ 
+pt
+​
+ ：procedure × year FE；
+T
+e
+a
+c
+h
+e
+r
+E
+x
+p
+e
+r
+t
+i
+s
+e
+TeacherExpertise：acquiring system 在 acquisition 之前对 procedure 
+p
+p 的 experience；
+Y
+Y：mortality / readmission / complications。
+核心不是：
+
+β
+k
+β 
+k
+​
+ 
+本身，而是：
+
+β
+k
+>
+0
+<
+0
+β 
+k>0
+​
+ <0
+​
+ 
+for bad outcomes。
+
+也就是：
+
+target 在进入一个“特别懂这项 procedure”的 organization 后改善得更多。
+
+7. Teacher–student test 是必须有的
+我会提前写成一个核心 hypothesis：
+
+∂
+Q
+u
+a
+l
+i
+t
+y
+B
+∂
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+A
+>
+0
+∂Experience 
+A
+​
+ 
+∂Quality 
+B
+​
+ 
+​
+ >0
+when
+
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+A
+>
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+B
+.
+Experience 
+A
+​
+ >Experience 
+B
+​
+ .
+但反方向：
+
+∂
+Q
+u
+a
+l
+i
+t
+y
+A
+∂
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+B
+∂Experience 
+B
+​
+ 
+∂Quality 
+A
+​
+ 
+​
+ 
+应该显著更弱。
+
+如果你发现：
+
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+d
+→
+I
+n
+e
+x
+p
+e
+r
+i
+e
+n
+c
+e
+d
+Experienced→Inexperienced
+很强，而：
+
+I
+n
+e
+x
+p
+e
+r
+i
+e
+n
+c
+e
+d
+→
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+d
+Inexperienced→Experienced
+基本没有，
+
+那会极大加强 learning story。
+
+否则 referee 很容易说：
+
+good systems simply improve all hospitals.
+
+8. 真正最重要的 causal design：shock to teacher production
+第一部分只能说明：
+
+experienced systems acquire hospitals and acquired hospitals subsequently improve.
+
+还不能证明：
+
+production-generated learning
+.
+production-generated learning.
+真正让 paper 上一个层次的是：
+
+S
+h
+o
+c
+k
+A
+p
+t
+→
+V
+o
+l
+u
+m
+e
+A
+p
+t
+→
+Q
+u
+a
+l
+i
+t
+y
+B
+p
+,
+t
++
+h
+.
+Shock 
+Apt
+​
+ →Volume 
+Apt
+​
+ →Quality 
+Bp,t+h
+​
+ .
+​
+ 
+然后比较 acquisition 前后。
+
+主方程：
+
+Y
+B
+p
+,
+t
++
+h
+=
+β
+V
+o
+l
+u
+m
+e
+^
+A
+p
+t
+×
+S
+a
+m
+e
+O
+w
+n
+e
+r
+A
+B
+t
++
+α
+A
+B
+p
++
+γ
+p
+t
++
+δ
+m
+t
++
+ε
+.
+Y 
+Bp,t+h
+​
+ =β 
+Volume
+  
+Apt
+​
+ ×SameOwner 
+ABt
+​
+ +α 
+ABp
+​
+ +γ 
+pt
+​
+ +δ 
+mt
+​
+ +ε.
+我们真正关心：
+
+β
+<
+0
+β<0
+​
+ 
+如果 
+Y
+Y 是 mortality / complication。
+
+9. 我目前最值得尝试的 volume shock：local competitor closure
+思路来自已有 hospital-learning 文献，但我们利用方式不同。
+
+如果 
+A
+A 附近一家提供同类 procedure 的 competing hospital / service line 关闭：
+
+C
+l
+o
+s
+u
+r
+e
+A
+m
+a
+r
+k
+e
+t
+,
+p
+,
+t
+→
+V
+o
+l
+u
+m
+e
+A
+p
+t
+↑
+.
+Closure 
+Amarket,p,t
+​
+ →Volume 
+Apt
+​
+ ↑.
+只保留：
+
+A
+,
+B
+A,B
+位于不同 commuting zones，最好不同州。
+
+那么 closure 几乎不直接改变 
+B
+B 的 patient demand。
+
+已有研究已经证明 clinic closure/opening 可以产生明显而相对外生的 procedure volume shift。
+
+但这里需要特别小心一个问题：
+
+competitor closure 后，医生可能从 closed hospital 跳到 A。
+
+那：
+
+A
+ knowledge
+↑
+A knowledge↑
+可能来自 human-capital inflow，而不只是 learning-by-doing。
+
+所以正式版本我会要求做：
+
+physician migration controls / exclusions
+.
+physician migration controls / exclusions.
+如果能跟踪 NPI physician affiliation，甚至可以排除有大量 physician inflow 的 closure shocks。
+
+这样 identification 会干净很多。
+
+10. 第二套 IV 可以作为 robustness，而不是主设计
+如果 closure IV 不够强，我会再考虑：
+
+local competitor opening
+local competitor opening
+导致：
+
+V
+o
+l
+u
+m
+e
+A
+↓
+,
+Volume 
+A
+​
+ ↓,
+以及跨州的 state-level reimbursement / policy shocks，只作用于 teacher hospital 的 market。
+
+但我暂时不会一开始就做复杂 Bartik。
+
+最重要的是先确定：
+
+P
+e
+e
+r
+V
+o
+l
+u
+m
+e
+A
+→
+T
+a
+r
+g
+e
+t
+P
+e
+r
+f
+o
+r
+m
+a
+n
+c
+e
+B
+PeerVolume 
+A
+​
+ →TargetPerformance 
+B
+​
+ 
+​
+ 
+在 data 中有没有 first-order signal。
+
+11. Data architecture：令人惊喜的是，大部分 pilot 可以免费完成
+模块	数据	能拿到什么	评价
+Acquisition dates	CMS CHOW	buyer, seller, effective date, transaction type	★★★★★
+System membership	AHRQ Compendium	hospital → health system	★★★★★
+Procedure volume	CMS Medicare Inpatient PUF	hospital × MS-DRG × year discharges	★★★★★
+Quality	CMS Care Compare	mortality, readmission, complications	★★★★☆
+Hospital finances	HCRIS	cost, staffing, beds, finances	★★★★★
+Closures	CMS POS	certification/provider history	★★★★☆
+Full patient outcomes	Medicare RIF	patient-level mortality/readmission etc.	★★★★★ but restricted
+Ownership
+CMS CHOW records hospital ownership changes from January 1, 2016 onward，包含 buyer/seller legal name、transaction type 和 effective date。当前数据是 quarterly updated。
+
+CMS 还提供 owner-level information 和 management/control information。
+
+CMS Hospital Change of Ownership data
+
+12. 更重要的是：system membership 有完全免费的 longitudinal source
+这是我查完以后非常高兴的一点。
+
+AHRQ 的 Compendium of U.S. Health Systems 免费提供：
+
+H
+o
+s
+p
+i
+t
+a
+l
+→
+S
+y
+s
+t
+e
+m
+Hospital→System
+linkage files，而且目前有：
+
+2016,\ 2018,\ 2020,\ 2021,\ 2022,\ 2023. \] :chatgpt-content-reference{index="7"} 文件里直接有： - CCN； - hospital； - system ID； - system name。 所以 pilot **甚至不一定需要买 AHA**。 [AHRQ Compendium of U.S. Health Systems](https://www.ahrq.gov/chsp/data-resources/compendium.html?utm_source=chatgpt.com) 正式 paper 如果需要精确逐年 system boundary，AHA Annual Survey 会更好。AHA 有 6,200+ hospitals、400+ systems、1,300 多个 hospital-level fields，并有历史数据。:chatgpt-content-reference{index="9"} --- # 13. Procedure volume 数据非常适合我们 CMS **Medicare Inpatient Hospitals – by Provider and Service** 是： \[ Hospital\times MS\text{-}DRG\times Year.
+有：
+
+T
+o
+t
+a
+l
+D
+i
+s
+c
+h
+a
+r
+g
+e
+s
+,
+P
+a
+y
+m
+e
+n
+t
+s
+,
+C
+h
+a
+r
+g
+e
+s
+.
+TotalDischarges,Payments,Charges.
+覆盖 3,000 多家 IPPS hospitals；2011–2013 是 top 100 DRGs，2014 起包含全部 MS-DRGs，小于等于 10 个 discharges 的 cells 被 suppress。
+
+所以：
+
+V
+o
+l
+u
+m
+e
+h
+p
+t
+Volume 
+hpt
+​
+ 
+​
+ 
+是真的 observable，不是拿 revenue 猜。
+
+CMS Medicare Inpatient Hospitals by Provider and Service
+
+14. 第一批我会只做两个 procedure families
+不要一上来做几百个 DRGs。
+
+我建议先：
+
+CABG
+因为：
+
+V
+o
+l
+u
+m
+e
+Volume
+容易定义，而且 CMS 有专门：
+
+30
+-day mortality
+30-day mortality
+和：
+
+30
+-day readmission
+.
+30-day readmission.
+CMS 的 outcome framework 确实单独报告 CABG mortality/readmission。
+
+THA/TKA
+也就是 hip/knee replacement。
+
+优点是 volume 高、procedure 标准化，而且有：
+
+r
+e
+a
+d
+m
+i
+s
+s
+i
+o
+n
+readmission
+和：
+
+90\text{-day complication}. \] :chatgpt-content-reference{index="13"} 这两个是最适合 proof-of-concept 的。 --- # 15. Quality 数据：能做 pilot，但这里有一个重要 caveat CMS Care Compare provider-level files公开： - 30-day mortality； - readmission； - hip/knee complications； - patient safety indicators。 例如当前 **Complications and Deaths – Hospital** 有 facility ID、measure、denominator、score、measurement start/end dates。:chatgpt-content-reference{index="14"} 而且 CMS 保存过去 7 年左右的 historical snapshots，目前 archive 可以回到 2019。:chatgpt-content-reference{index="15"} [CMS Hospital Quality Data Archives](https://data.cms.gov/provider-data/archived-data/hospitals?utm_source=chatgpt.com) 但是这里有一个非常重要的问题： **很多 mortality/readmission measures 是 multi-year rolling windows。** 所以 public Care Compare 数据不是理想的： \[ Hospital\times Year
+真实年度 outcome。
+
+这会 blur acquisition timing，并且产生非常强的 serial correlation。
+
+所以：
+
+C
+a
+r
+e
+ 
+C
+o
+m
+p
+a
+r
+e
+=
+f
+e
+a
+s
+i
+b
+i
+l
+i
+t
+y
+ 
+t
+e
+s
+t
+,
+M
+e
+d
+i
+c
+a
+r
+e
+ 
+c
+l
+a
+i
+m
+s
+=
+f
+i
+n
+a
+l
+ 
+p
+a
+p
+e
+r
+.
+Care Compare=feasibility test,Medicare claims=final paper.
+​
+ 
+16. Final paper 应该申请 Medicare claims
+有 RIF 以后就可以真正构造：
+
+P
+a
+t
+i
+e
+n
+t
+i
+×
+H
+o
+s
+p
+i
+t
+a
+l
+h
+×
+P
+r
+o
+c
+e
+d
+u
+r
+e
+p
+×
+D
+a
+t
+e
+t
+.
+Patient 
+i
+​
+ ×Hospital 
+h
+​
+ ×Procedure 
+p
+​
+ ×Date 
+t
+​
+ .
+于是可以自己定义：
+
+30
+-day mortality
+,
+30-day mortality,
+30
+/
+90
+-day readmission
+,
+30/90-day readmission,
+c
+o
+m
+p
+l
+i
+c
+a
+t
+i
+o
+n
+s
+,
+complications,
+l
+e
+n
+g
+t
+h
+ 
+o
+f
+ 
+s
+t
+a
+y
+,
+length of stay,
+甚至 patient-level risk adjustment。
+
+CMS 的 RIF research requests 一般通过 ResDAC，官方说明 processing 一般约 3–5 months，通常可以通过 CCW VRDC 使用。
+
+所以我绝对不会现在就申请。
+
+先用免费数据证明：
+
+s
+i
+g
+n
+a
+l
+≠
+0.
+signal
+
+=0.
+有 signal 再花时间和钱。
+
+17. HCRIS 是重要 controls，不应该是 main outcome
+CMS 的 HCRIS hospital cost reports 从 1996 开始，当前 CMS-2552-10 数据一直更新到 2026。
+
+我们可以得到：
+
+b
+e
+d
+s
+,
+s
+t
+a
+f
+f
+i
+n
+g
+,
+c
+o
+s
+t
+s
+,
+r
+e
+v
+e
+n
+u
+e
+s
+,
+c
+a
+s
+e
+ 
+m
+i
+x
+,
+c
+a
+p
+i
+t
+a
+l
+.
+beds,staffing,costs,revenues,case mix,capital.
+这可以帮助回答：
+
+target quality improvement 是不是其实因为 acquisition 后增加 staffing / capex？
+
+但我不会把：
+
+c
+o
+s
+t
+/
+b
+e
+d
+cost/bed
+作为 main result。
+
+因为已有 Andreyeva et al. 的 The Corporatization of Independent Hospitals 已经发现 independent hospitals 被 system 收购后 operating costs 大幅下降，而且主要来自 personnel、capital 和 financing costs。
+
+我们必须避开：
+
+acquisitions improve hospital efficiency
+
+这个题。
+
+18. Literature positioning 应该非常明确
+现有 hospital merger papers通常估：
+
+A
+c
+q
+u
+i
+s
+i
+t
+i
+o
+n
+B
+→
+O
+u
+t
+c
+o
+m
+e
+B
+.
+Acquisition 
+B
+​
+ →Outcome 
+B
+​
+ .
+例如 Beaulieu et al. 用 2007–2016 Medicare/Hospital Compare 数据研究 246 个 acquired hospitals，发现 acquisition 后 mortality/readmission 没有明显改善，patient experience 甚至有所下降。
+
+这对我们其实是好消息。
+
+因为我们不是预测：
+
+所有 acquisition 平均改善 quality
+.
+所有 acquisition 平均改善 quality.
+我们的预测是：
+
+Acquisitions improve specific activities when the acquirer possesses relevant operating experience that can be transferred.
+Acquisitions improve specific activities when the acquirer possesses relevant operating experience that can be transferred.
+​
+ 
+因此 average treatment effect 可以接近 0，同时我们的 heterogeneity effect 很大。
+
+甚至这能解释现有 mixed evidence。
+
+19. 一个现实世界的 narrative 也已经存在
+Andreyeva et al. 在讨论 Northwell 收购 Northern Westchester Hospital 时记录到，target 管理层当时公开强调加入大 system 可以获得：
+
+stronger clinical information systems；
+scale；
+capital；
+更大的 managerial/clinical talent pool；
+knowledge sharing。 
+2026 年 Michigan Medicine 对 Sparrow Health 的整合案例也明确强调 clinical leadership integration、共同 EHR、system-level quality goals 和统一 analytics。
+
+这些不是 causal evidence，但非常适合 intro：
+
+practitioners themselves claim that common ownership changes how operating knowledge moves across facilities.
+
+然后我们的 paper第一次定量回答它。
+
+20. 机制 tests
+如果 main result 成立，我认为至少要做四层 mechanism。
+
+第一层：
+
+R
+e
+l
+a
+t
+e
+d
+P
+r
+o
+c
+e
+d
+u
+r
+e
+A
+→
+B
+RelatedProcedure 
+A
+​
+ →B
+有作用，但 unrelated procedure 没作用。
+
+例如：
+
+C
+A
+B
+G
+ 
+e
+x
+p
+e
+r
+i
+e
+n
+c
+e
+A
+CABG experience 
+A
+​
+ 
+应该改善 B 的 CABG outcome，而不应该明显改善 B 的 hip replacement outcome。
+
+第二层是 teacher–student：
+
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+A
+≫
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+B
+Experience 
+A
+​
+ ≫Experience 
+B
+​
+ 
+时 effect 最大。
+
+第三层是 decay：
+
+随着 B 自己积累 volume：
+
+E
+f
+f
+e
+c
+t
+(
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+A
+→
+B
+)
+↓
+.
+Effect(Experience 
+A
+​
+ →B)↓.
+也就是说 target 学会以后，teacher 价值下降。
+
+第四层是 personnel / organizational transmission。
+
+如果能观察：
+
+d
+o
+c
+t
+o
+r
+/
+m
+a
+n
+a
+g
+e
+r
+ 
+m
+o
+b
+i
+l
+i
+t
+y
+doctor/manager mobility
+或者 unified EHR / system integration，
+
+effect 应该更大。
+
+这会让 intangible-capital story非常完整。
+
+21. 最大的 identification threats
+真正最危险的不是 standard DiD selection，而是这几个。
+
+Assortative matching。 Strong system 可能专门收购更容易改善的 hospitals。解决方法是 event-study pretrends、pre-acquisition teacher expertise predetermined、target × procedure FE，以及最终用 teacher-volume shocks。
+
+System-wide quality program。 merger 后总部同时在所有 hospital 推一个 quality program。所以 
+A
+A 的 volume 可能只是 system quality 的 proxy。最强的反驳是：
+
+p
+r
+o
+c
+e
+d
+u
+r
+e
+-specific shock
+A
+procedure-specific shock 
+A
+​
+ 
+只改善 B 的 related procedure，而不改善 unrelated outcomes。
+
+Patient sorting。 acquisition 后 complicated patients 可能从 B 被转到 A，使 B measured quality 看起来改善。这个必须认真处理。Full claims 后可以看：
+
+p
+a
+t
+i
+e
+n
+t
+ 
+t
+r
+a
+n
+s
+f
+e
+r
+s
+,
+c
+a
+s
+e
+ 
+m
+i
+x
+,
+B
+ 
+v
+o
+l
+u
+m
+e
+.
+patient transfers,case mix,B volume.
+甚至可以把“患者重新配置”和“knowledge transfer”明确区分。
+
+Physician movement。 这既可能是 confound，也是 mechanism。最好把 physician transfer 单独做出来：
+
+A
+→
+B
+ 
+p
+h
+y
+s
+i
+c
+i
+a
+n
+ 
+m
+o
+b
+i
+l
+i
+t
+y
+.
+A→B physician mobility.
+22. 对 finance field 的一个真实 caveat
+这个 setting 非常适合识别 mechanism，但天然不是资本市场 setting。
+
+很多 hospitals 是 nonprofit/private，所以没有：
+
+C
+A
+R
+,
+a
+c
+q
+u
+i
+s
+i
+t
+i
+o
+n
+ 
+p
+r
+e
+m
+i
+u
+m
+,
+e
+q
+u
+i
+t
+y
+ 
+v
+a
+l
+u
+a
+t
+i
+o
+n
+.
+CAR,acquisition premium,equity valuation.
+因此如果最后想往 finance top journal 推，我会让 paper 的 framing 从一开始就不是：
+
+hospital merger and quality.
+
+而是：
+
+How
+ 
+do
+ 
+corporate
+ 
+boundaries
+ 
+affect
+ 
+the
+ 
+formation
+ 
+of
+ 
+organizational
+ 
+capital?
+How do corporate boundaries affect the formation of organizational capital?
+​
+ 
+Hospitals 只是实验室。
+
+如果 mechanism 特别干净，后面可以再加一个 external-validation section：
+
+L
+e
+a
+r
+n
+i
+n
+g
+S
+y
+n
+e
+r
+g
+y
+A
+B
+→
+M
+&
+A
+ 
+l
+i
+k
+e
+l
+i
+h
+o
+o
+d
+/
+a
+n
+n
+o
+u
+n
+c
+e
+m
+e
+n
+t
+ 
+r
+e
+t
+u
+r
+n
+LearningSynergy 
+AB
+​
+ →M&A likelihood/announcement return
+在 public firms 中验证 generality。
+
+但我不会现在就做这个。
+
+23. 我给这个项目目前的 feasibility assessment
+Economic mechanism：9/10
+
+非常清楚，而且和你最开始那个 JPE paper 有自然联系。
+
+Data：8/10
+
+public pilot 的关键 pieces 基本都存在，而且都是 CCN 可以 merge。
+
+Identification：6.5/10
+
+baseline 很容易；真正 causal 的 peer-learning shock 是整个 paper 最难的部分。
+
+Novelty：8/10 if causal cross-hospital learning works；5/10 if only post-merger quality.
+
+所以决定项目价值的不是：
+
+acquisition 后 B 好没好。
+
+而是：
+
+Activity at A causes performance changes at B, and corporate ownership determines whether that effect exists.
+Activity at A causes performance changes at B, and corporate ownership determines whether that effect exists.
+​
+ 
+24. 我建议现在直接做的 RA pilot
+我会给 RA 一个非常窄的任务，而不是“收集医院数据”。
+
+下载 2014–2024 CMS inpatient provider × DRG volume，先只保留 CABG 和 THA/TKA；下载 CMS CHOW、AHRQ 2016/2018/2020–2023 system linkage、HCRIS 和 Care Compare historical quality files。
+
+建一个稳定的：
+
+C
+C
+N
+×
+Y
+e
+a
+r
+CCN×Year
+hospital master table，然后识别 2016–2023 acquisitions，并限制到 target 和 acquiring-system hospitals 位于不同 commuting zones 的 deals。
+
+对每个 target 
+B
+B，在 acquisition 前找同一 procedure 上 experience 最大的 acquiring-system hospital 
+A
+A，构造：
+T
+e
+a
+c
+h
+e
+r
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+,
+S
+t
+u
+d
+e
+n
+t
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+,
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+G
+a
+p
+.
+TeacherExperience,StudentExperience,ExperienceGap.
+第一张表只回答 sample feasibility：有多少 acquisition，多少 target 可以前后匹配 volume，多少有 CABG/THA-TKA，多少有可用 mortality/readmission。
+
+第一张图只做：
+
+P
+o
+s
+t
+A
+c
+q
+u
+i
+s
+i
+t
+i
+o
+n
+×
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+G
+a
+p
+→
+Q
+u
+a
+l
+i
+t
+y
+B
+.
+PostAcquisition×ExperienceGap→Quality 
+B
+​
+ .
+如果这一张图完全没有任何 pattern，我会很谨慎继续投入。
+
+如果有明显 pattern，第二步才开始做 closure-driven teacher-volume shocks。
+
+我的 go / no-go 标准
+我会把第一个月的目标定得非常明确：
+
+Go：在至少一个 procedure 上，高-experience acquirer 的 target 相对于低-experience acquirer，在 merger 后出现明显更快的质量改善；并且 pre-trend 不明显、effect 对 unrelated procedure 弱。
+
+如果只是：
+
+a
+c
+q
+u
+i
+r
+e
+d
+ 
+h
+o
+s
+p
+i
+t
+a
+l
+s
+ 
+o
+v
+e
+r
+a
+l
+l
+ 
+i
+m
+p
+r
+o
+v
+e
+,
+acquired hospitals overall improve,
+但和 acquirer experience 完全没关系，我会 no-go 这个 mechanism。
+
+因为那更像普通 integration / capital / management improvement。
+
+如果：
+
+T
+e
+a
+c
+h
+e
+r
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+TeacherExperience
+真的能预测：
+
+S
+t
+u
+d
+e
+n
+t
+L
+e
+a
+r
+n
+i
+n
+g
+,
+StudentLearning,
+那么我会马上把项目升级到 claims + causal shock。
+
+我觉得现在已经可以开始 RA 数据工作了。下一步最有价值的是我直接给你写一份“RA Data Construction Instructions”：具体到每个 CMS/AHRQ 文件下载什么、用哪个 identifier merge、CABG 和 THA/TKA 对应哪些 DRG、最后 master panel 每一列变量叫什么，以及第一版 Stata/Python regression 应该跑什么。这样你可以直接把任务发给 RA 开工。

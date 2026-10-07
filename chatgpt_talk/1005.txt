@@ -1,0 +1,2708 @@
+
+
+20261006_Prof. Chenyu YANG_Seminar Paper.pdf
+PDF
+这里面提到的know-how在MA中传递，是有一支成熟的literature讲这件事吗？如果做一项研究，说A有learning-by-doing，然后AB merge之后，这种experience能传导给B，这种研究贡献够大吗？或者再往下，MA的驱动因素之一是否就是B看上了A的learning experience。
+
+Worked for 3m 43s
+有，而且我觉得这里要区分三个不同的问题。如果只是做“merger 之后 A 的 learning-by-doing experience 传给 B”这一件事，单独作为 contribution 已经不太够；但如果把问题推进成“firms acquire other firms in order to buy accumulated experiential capital”，我觉得会明显更有意思。
+
+你发的这篇 paper 本身其实已经离第一个问题很近了。作者明确把 ULA merger 理解成一种 “internalizes learning across products within the same firm” 的 merger efficiency；FTC 当时批准 ULA 的一个核心理由也是合并 workforce、提高 launch tempo，并让一方的技术改进进入另一方的 launch vehicle。
+ 
+ 更直接的是，他们在经验变量里让 Atlas V 和 Delta IV 在 merger 后共享 experience，并用 appendix regression 说明“一种 rocket 的 launch experience 会提高另一种 rocket 的 reliability”。
+
+1. “Learning experience 能不能 transfer？”——这是很成熟的一支 literature
+这支文献其实比 M&A 文献本身还老，可以叫 organizational learning / learning-curve spillovers / knowledge transfer。
+
+很直接的几篇是：
+
+Epple, Argote & Devadas (1991, Organization Science)：研究 learning-by-doing 得到的知识能否在同一个工厂不同 shifts 之间转移，发现 transfer 是显著但不完全的。
+Darr, Argote & Epple (1995, Management Science)：这篇尤其值得你看。他们研究 pizza stores，发现 learning-by-doing 的 knowledge 会在同一个 franchisee 拥有的 stores 之间 transfer，但不会在不同 franchisees 之间 transfer。这已经非常接近“firm boundary 决定 experience 能否传导”的 idea。
+Irwin & Klenow (1994, JPE)：semiconductor 中有 learning spillovers；own cumulative production 的 learning effect 大约是其他 firms production 的三倍，而且跨 generation 的 spillover 很弱。
+Benkard (2000, AER)：aircraft production 里不仅有 learning 和 forgetting，也有一部分 production experience 从一代 aircraft transfer 到下一代，但不是 complete transfer。
+所以，“experience 是一种 intangible stock，而且可以部分 transfer”本身已经不是新的。
+
+甚至更关键的是，M&A + learning-by-doing experience transfer 已经被非常直接地做过。
+
+An & Zhao (2019, RAND Journal of Economics) 做 Boeing–McDonnell Douglas merger，paper 直接写：merger efficiency 来自 “transferred and more efficiently shared experience after the merger”。他们甚至设一个 transfer rate 
+τ
+τ，
+τ
+=
+0
+τ=0 是完全不 transfer，
+τ
+=
+1
+τ=1 是 complete transfer，然后算 welfare。
+ 他们还明确说 merger 后 McDonnell Douglas 的 engineering、manufacturing 和 “lessons learned” 可以传给 Boeing。
+
+所以如果你的 paper pitch 是：
+
+A has accumulated learning-by-doing.
+A and B merge.
+After the merger, A's experience reduces B's cost / improves B's quality.
+
+referee 很可能马上会说：An & Zhao (2019) + organizational learning literature + 你现在看的 ULA paper。
+
+这个版本我不会把它当成足够大的 standalone contribution。
+
+2. 但“merger 改变了 firm boundary，因此原本不能 transfer 的 experience 开始 transfer”会更有意思
+我觉得这里真正有潜力的 conceptual question 不是：
+
+Does experience transfer after M&A?
+Does experience transfer after M&A?
+而是：
+
+Does common ownership make experiential capital transferable?
+Does common ownership make experiential capital transferable?
+​
+ 
+这个 framing 要强很多。
+
+想象 A 和 B 在 merger 前：
+
+c
+A
+=
+c
+(
+E
+A
+)
+,
+c
+B
+=
+c
+(
+E
+B
+)
+.
+c 
+A
+​
+ =c(E 
+A
+​
+ ),c 
+B
+​
+ =c(E 
+B
+​
+ ).
+虽然 
+A
+A 有很多 experience，但因为 tacit knowledge、workers、organizational routines、data、processes 等 friction，
+
+∂
+c
+B
+∂
+E
+A
+≈
+0.
+∂E 
+A
+​
+ 
+∂c 
+B
+​
+ 
+​
+ ≈0.
+合并以后：
+
+c
+B
+=
+c
+(
+E
+B
++
+λ
+E
+A
+)
+,
+λ
+>
+0.
+c 
+B
+​
+ =c(E 
+B
+​
+ +λE 
+A
+​
+ ),λ>0.
+那么 merger 本身就是一个 organizational boundary shock，使
+
+λ
+pre
+≈
+0
+→
+λ
+post
+>
+0.
+λ 
+pre
+​
+ ≈0→λ 
+post
+​
+ >0.
+这和普通的“merger 后 productivity 上升”是不同的经济问题。你是在问：
+
+Why does knowledge stay inside firm boundaries, and can M&A internalize learning spillovers?
+
+这就能直接 connect 到 Darr–Argote–Epple 那个非常漂亮的结果：同一个 owner 下的 stores 可以 transfer，跨 owner 不 transfer。
+
+如果你能用大量 mergers 做一个 causal version，这可能是相当不错的 contribution。
+
+3. 我更喜欢你最后提的那个问题：“B 是不是因为 A 的 accumulated learning experience 才买 A？”
+这个我觉得比单纯 post-merger transfer 更有 potential。
+
+已有的 M&A literature 已经证明 firms 会“buy technology / innovation capabilities”，所以你不能笼统地说“firms acquire know-how”。例如：
+
+Ahuja & Katila (2001, SMJ) 发现 technological acquisitions 中，被收购 firm 的 knowledge base 会影响 acquirer 之后的 innovation。
+
+Bena & Li (2014, JF) 更接近你的想法。他们发现 technological overlap 会增加两个 firms 发生 merger 的概率，而且有 prior technological linkage 的 acquirer 在 merger 后产生更多 patents；他们因此把 innovation synergies 视为 M&A 的重要 driver。
+
+Higgins & Rodriguez (2006, JFE) 发现 pharma firms 在内部 R&D productivity 下降时，更可能通过 acquisition 补充 research pipeline。
+
+Phillips & Zhdanov (2013, RFS) 的理论甚至是，大企业可以不自己参加 R&D race，而等小企业 innovate 之后直接 acquire 它。
+
+所以“buy innovation”有很成熟的 literature。
+
+但我认为这里有一个很好的 distinction：
+
+Patent/R&D knowledge ≠ learning-by-doing capital.
+
+Patent 是 relatively codified、observable、potentially licensable 的。
+
+而 production experience 往往是：
+
+tacit；
+embodied in workers/teams；
+embedded in routines；
+accumulated through repeated production；
+difficult to contract on or sell separately。
+因此你的 question 可以变成：
+
+Why acquire the firm rather than license its technology? Because what the buyer wants is accumulated experiential capital that cannot easily be traded separately from the organization.
+
+这个 economic mechanism 就明显更sharp了。
+
+4. 如果让我做这个 project，我会把两个方向合在一起
+不是只证明 transfer，也不是只证明 merger selection，而是做一个完整的 “Buying the Learning Curve” story：
+
+Experience accumulation
+→
+M&A selection
+→
+ownership boundary change
+→
+experience transfer
+→
+productivity/quality gains
+Experience accumulation→M&A selection→ownership boundary change→experience transfer→productivity/quality gains
+​
+ 
+empirically 可以有两个 main results。
+
+第一部分做 M&A formation：
+
+P
+r
+(
+M
+e
+r
+g
+e
+A
+B
+=
+1
+)
+=
+f
+(
+E
+A
+,
+ 
+E
+B
+,
+ 
+R
+e
+l
+a
+t
+e
+d
+n
+e
+s
+s
+A
+B
+,
+…
+)
+Pr(Merge 
+AB
+​
+ =1)=f(E 
+A
+​
+ , E 
+B
+​
+ , Relatedness 
+AB
+​
+ ,…)
+真正 prediction 不是简单 
+E
+A
+E 
+A
+​
+  越高越容易被买，而应该是：
+
+E
+A
+×
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+G
+a
+p
+B
+×
+T
+e
+c
+h
+n
+o
+l
+o
+g
+i
+c
+a
+l
+R
+e
+l
+a
+t
+e
+d
+n
+e
+s
+s
+A
+B
+E 
+A
+​
+ ×ExperienceGap 
+B
+​
+ ×TechnologicalRelatedness 
+AB
+​
+ 
+​
+ 
+越大，A 被 B acquire 的概率越高。
+
+换句话说，B 不会无条件喜欢 experienced A；应该是 A knows something B needs and can actually absorb。
+
+第二部分做 realized transfer：
+
+P
+e
+r
+f
+o
+r
+m
+a
+n
+c
+e
+B
+,
+t
+=
+β
+1
+E
+B
+,
+t
++
+β
+2
+(
+E
+A
+,
+pre
+×
+P
+o
+s
+t
+M
+e
+r
+g
+e
+r
+)
++
+⋯
+Performance 
+B,t
+​
+ =β 
+1
+​
+ E 
+B,t
+​
+ +β 
+2
+​
+ (E 
+A,pre
+​
+ ×PostMerger)+⋯
+最漂亮的结果是：
+
+β
+2
+>
+0
+,
+β 
+2
+​
+ >0,
+但在没有 merger 的类似 A–B pair 中，A experience 对 B 几乎没有作用。
+
+再往下做 heterogeneity：
+
+T
+r
+a
+n
+s
+f
+e
+r
+↑
+Transfer↑
+when technological relatedness 高、关键员工 retention 高、plant/geography 更近、integration 更深、shared suppliers 更多。
+
+这样你不仅说“transfer exists”，还回答了：
+
+what exactly crosses the firm boundary, why the merger is needed, and when the transfer works.
+
+5. 这时 contribution 就会明显不同于现在这篇 ULA paper
+你发的 paper 是：
+
+Given a particular merger, what are the welfare consequences if learning synergy exists?
+
+它把 ULA 当作一个很特殊的 antitrust retrospective，而且模型里直接让 merger 后两个产品共享 learning。作者自己也把 contribution 放在 dynamic competition / procurement / merger welfare 上，而不是建立一个 general theory/evidence of why firms merge to acquire experiential capital。
+
+An & Zhao 也是：
+
+Given Boeing–MD merger, how large are dynamic efficiencies from transferred/shared experience? 
+
+而你可以问：
+
+Are mergers systematically used to acquire learning-by-doing capital?
+
+这是一个 M&A selection / theory of the firm / intangible capital question。
+
+我觉得这个 gap 要明显更有价值。
+
+尤其是，如果你能找到一个 setting，让 experience 是非常干净可量化的：
+
+E
+i
+t
+=
+cumulative production / procedures / projects / contracts
+E 
+it
+​
+ =cumulative production / procedures / projects / contracts
+并且 performance 有非常清晰的 learning curve：
+
+C
+o
+s
+t
+,
+ 
+Y
+i
+e
+l
+d
+,
+ 
+D
+e
+f
+e
+c
+t
+,
+ 
+F
+a
+i
+l
+u
+r
+e
+,
+ 
+D
+u
+r
+a
+t
+i
+o
+n
+=
+f
+(
+E
+)
+,
+Cost, Yield, Defect, Failure, Duration=f(E),
+那这个 project 会很好看。
+
+我的判断可以压缩成一句话：
+
+“Experience transfers after merger”本身已经被做过，不够新；“M&A changes organizational boundaries and thereby unlocks otherwise non-transferable learning-by-doing capital”会好很多；而“firms endogenously acquire targets precisely to buy this experiential capital，并且 merger 后我们看到它真正 transfer”是三个版本里我最看好的。
+
+甚至 title 都已经很自然了：“Buying the Learning Curve: Learning-by-Doing and Mergers and Acquisitions” 或者 “Acquiring Experience: Firm Boundaries, Learning-by-Doing, and M&A.”
+
+如果你愿意，我下一步可以直接帮你把这个 idea 按照 research question → literature gap → 3 hypotheses → identification → ideal dataset → contribution 写成一页 PhD research proposal。我觉得这个 idea 值得认真往下推。
+
+
+1002-all.txt
+Document
+你觉得这个relevant idea怎么样？
+
+Worked for 1m 36s
+我觉得这个 idea 是值得做的，而且比最初“merger 后 know-how 从 A 传给 B”明显高了一个层次。但我看完你现在这版 memo 后，有一个很重要的地方我会重新收紧：目前最强的 empirical design 和你最强的 contribution statement，其实还没有完全对上。
+
+你现在最好的 empirical object 是：
+
+Activity/Experience
+A
+,
+t
+×
+Common Ownership
+A
+B
+,
+t
+→
+Future Performance
+B
+,
+t
++
+1
+.
+Activity/Experience 
+A,t
+​
+ ×Common Ownership 
+AB,t
+​
+ →Future Performance 
+B,t+1
+​
+ .
+也就是：A 多做了一些事情、积累了新的 operating experience，这个 experience 在 A/B 成为同一 owner 之后，是否更能改善 B。你在 memo 里已经很清楚地把它写成“experience generated at one asset becomes more valuable when related assets share a corporate owner”，这其实是一个很漂亮的问题。
+ Hospital setting 也确实很契合，因为你可以把 knowledge 定义成 procedure-specific、production-generated operational capital，而不是 patent/R&D。
+
+但我会把这个 project 目前打 8/10，而不是 10/10，原因就在下面。
+
+最大的问题：你现在识别的是 “transmission”，还不是 “creation incentive”
+现在 memo 最强的 framing 是：
+
+common ownership changes firms' incentives to create intangible capital through production.
+
+这句话很强。
+
+但假设你的 regression 是
+
+Y
+B
+,
+t
++
+1
+=
+β
+ 
+S
+h
+o
+c
+k
+A
+,
+t
+×
+S
+a
+m
+e
+O
+w
+n
+e
+r
+A
+B
+,
+t
++
+⋯
+Y 
+B,t+1
+​
+ =βShock 
+A,t
+​
+ ×SameOwner 
+AB,t
+​
+ +⋯
+即使 
+β
+>
+0
+β>0，你证明的是：
+
+λ
+inside firm
+>
+λ
+across firms
+,
+λ 
+inside firm
+​
+ >λ 
+across firms
+​
+ ,
+也就是 同一个 firm boundary 里面，A 新产生的 learning 更容易传到 B。
+
+你还没有证明：
+
+q
+A
+∗
+(
+merged
+)
+>
+q
+A
+∗
+(
+separate
+)
+,
+q 
+A
+∗
+​
+ (merged)>q 
+A
+∗
+​
+ (separate),
+也就是 merger 因为 internalize 了 B 得到的 benefit，所以 主动让 A 做更多 learning-generating activity。
+
+这两个经济问题是不同的：
+
+∂
+e
+B
+∂
+q
+A
+⏟
+knowledge transmission
+vs.
+∂
+q
+A
+∗
+∂
+O
+w
+n
+e
+r
+s
+h
+i
+p
+⏟
+incentive to create knowledge
+.
+knowledge transmission
+∂q 
+A
+​
+ 
+∂e 
+B
+​
+ 
+​
+ 
+​
+ 
+​
+ vs. 
+incentive to create knowledge
+∂Ownership
+∂q 
+A
+∗
+​
+ 
+​
+ 
+​
+ 
+​
+ .
+所以我现在不会把 headline 定成 “Mergers change the production of organizational capital”，除非你真的把第二项做出来。
+
+我反而会先占一个更稳、但仍然很大的 claim：
+
+Firm boundaries determine the return to learning-by-doing because they determine where production-generated knowledge can be redeployed.
+
+这个 claim 已经足够有 economics content，而且和你的 identification 完全一致。
+
+为什么我仍然很喜欢它
+因为它不是普通的：
+
+M
+e
+r
+g
+e
+r
+→
+P
+r
+o
+d
+u
+c
+t
+i
+v
+i
+t
+y
+B
+.
+Merger→Productivity 
+B
+​
+ .
+而是：
+
+Exogenous experience generated at A
+→
+performance of B
+Exogenous experience generated at A→performance of B
+​
+ 
+然后问：
+
+Does this relationship change discontinuously when A and B come under common ownership?
+Does this relationship change discontinuously when A and B come under common ownership?
+​
+ 
+这个 estimand 很漂亮。
+
+它直接告诉我们 firm boundary 做了什么，而不是只告诉我们 merger “有效”。
+
+尤其如果结果是：
+
+β
+pre
+≈
+0
+,
+β
+post
+>
+0
+,
+β 
+pre
+​
+ ≈0,β 
+post
+​
+ >0,
+而且 effect 只出现在 related procedures / technologies 上，那一张图就已经非常有说服力。
+
+这和你最初看的 rocket paper 也有非常自然的联系，但又比它 general：rocket paper 是一个具体 merger 中 Atlas/Delta cross-learning；你的 paper 是在问 common ownership 是否一般性地改变 experiential knowledge 的可转移性。
+
+Hospital 我现在也比较看好，但它有一个必须解决的 mechanism 问题
+Hospital 最大优点正如 memo 里写的：procedure volume 本身就是很自然的 LBD state variable，而且大量 cross-market acquisitions 给你很好的 variation。
+
+但假设你发现：
+
+V
+o
+l
+u
+m
+e
+A
+↑
+⇒
+M
+o
+r
+t
+a
+l
+i
+t
+y
+B
+↓
+Volume 
+A
+​
+ ↑⇒Mortality 
+B
+​
+ ↓
+在 merger 后才出现。
+
+referee 会问：
+
+你怎么知道这是 learning-by-doing knowledge spillover，而不是 system-wide management improvement？
+
+比如 acquisition 之后同时发生：
+
+standardization of protocols；
+physician movement；
+joint purchasing；
+centralized IT；
+capital investment；
+referral of difficult patients；
+selective shutting down / reallocating procedures；
+common management team。
+这些很多也会让 B 变好。
+
+所以，我觉得这个 paper 成不成，关键不是主 coefficient，而是能不能出现一些非常 LBD-specific predictions。
+
+我最喜欢四个：
+
+Procedure specificity：A 在 CABG 上获得额外 experience，只改善 B 的 CABG 或非常 related procedures，而不是所有 outcome。
+
+Teacher → student asymmetry：
+
+E
+A
+≫
+E
+B
+⇒
+β
+A
+→
+B
+ large
+,
+E 
+A
+​
+ ≫E 
+B
+​
+ ⇒β 
+A→B
+​
+  large,
+但
+
+β
+B
+→
+A
+≈
+0.
+β 
+B→A
+​
+ ≈0.
+Diminishing transfer：随着 B 自己积累 experience，
+β
+A
+→
+B
+(
+E
+B
+)
+↓
+.
+β 
+A→B
+​
+ (E 
+B
+​
+ )↓.
+Experience depreciation：A 很久以前的 activity 对 B 的帮助应该弱于最近 activity。
+如果这四个出来两个到三个，我会开始相信你真的抓到了 production-generated organizational knowledge，而不仅仅是 generic integration synergy。
+
+另外，我会暂时把 “M&A motive” 放到第二篇结果，而不是一开始就背在身上
+你最开始还有一个很好玩的 question：
+
+B 是不是因为看中了 A 的 learning experience 才 acquire A？
+
+这个问题很好，但我觉得不要一开始同时要求 paper 回答：
+
+Why merge?
+Why merge?
+和
+
+What happens to learning after merging?
+What happens to learning after merging?
+否则 identification 会迅速变得很重。
+
+比较理想的是，先 establish：
+
+C
+o
+m
+m
+o
+n
+o
+w
+n
+e
+r
+s
+h
+i
+p
+c
+r
+e
+a
+t
+e
+s
+a
+n
+i
+n
+t
+e
+r
+n
+a
+l
+m
+a
+r
+k
+e
+t
+f
+o
+r
+e
+x
+p
+e
+r
+i
+e
+n
+t
+i
+a
+l
+k
+n
+o
+w
+l
+e
+d
+g
+e
+.
+Commonownershipcreatesaninternalmarketforexperientialknowledge.
+​
+ 
+然后作为第二组结果再问 matching：
+
+P
+(
+A
+,
+B
+ merge
+)
+=
+f
+(
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+G
+a
+p
+A
+B
+,
+R
+e
+l
+a
+t
+e
+d
+n
+e
+s
+s
+A
+B
+,
+L
+e
+a
+r
+n
+i
+n
+g
+P
+o
+t
+e
+n
+t
+i
+a
+l
+B
+)
+.
+P(A,B merge)=f(ExperienceGap 
+AB
+​
+ ,Relatedness 
+AB
+​
+ ,LearningPotential 
+B
+​
+ ).
+这里的 prediction甚至不应该是“experienced firms 更容易被收购”，而应该是：
+
+R
+e
+l
+a
+t
+e
+d
+n
+e
+s
+s
+×
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+G
+a
+p
+×
+L
+e
+a
+r
+n
+i
+n
+g
+O
+p
+p
+o
+r
+t
+u
+n
+i
+t
+y
+Relatedness×ExperienceGap×LearningOpportunity
+​
+ 
+越高，pair 越容易进入 common ownership。
+
+如果这个也成立，paper 就会突然变得非常完整：
+
+potential learning synergy
+→
+ownership choice
+→
+realized cross-unit learning
+.
+potential learning synergy→ownership choice→realized cross-unit learning.
+这时候它就不只是一个 hospital merger paper，而是一篇真正关于 the boundary of the firm 的 paper。
+
+所以我现在最想修改你之前 memo 的一句话。
+
+不是：
+
+Common ownership changes the incentive to create production-generated intangible capital.
+
+至少第一版不要这么 claim。
+
+我会写成：
+
+Learning-by-doing creates intangible capital whose value depends on firm boundaries. We study whether common ownership allows experience generated at one operating unit to improve the performance of related units, creating an internal market for experiential knowledge.
+
+如果后面你还能证明 merger 同时改变 
+q
+A
+∗
+q 
+A
+∗
+​
+ ，再升级成：
+
+Firm boundaries govern not only the transmission of organizational knowledge, but also its production.
+
+第二句话一旦真正有 evidence，我会认为这个 idea 的 contribution 非常大。
+
+现在这个阶段，我会继续做，而且我会把精力从“再找更多 related literature”转向一件事：能不能设计出一张让人无法用 generic merger synergy 解释的 causal graph。 这才是这个 project 的生死线。
+
+那请你指导我做下一步
+
+Worked for 43s
+可以。我建议你现在先不要继续扩 literature，也不要先写完整模型。下一步应该像做一个真正的 empirical project 一样，先回答一个最核心的问题：
+
+这个 cross-unit learning effect 在数据里到底存不存在？
+这个 cross-unit learning effect 在数据里到底存不存在？
+​
+ 
+你前面的 memo 已经把方向定得很好：先用 public data 做一个窄 pilot，构造 
+H
+o
+s
+p
+i
+t
+a
+l
+×
+P
+r
+o
+c
+e
+d
+u
+r
+e
+×
+Y
+e
+a
+r
+Hospital×Procedure×Year panel；如果第一轮信号成立，再申请 Medicare claims。
+
+我会带你按下面这个顺序做。
+
+第一步：今天先把“我要识别什么”钉死
+先不要用 “M&A improves hospital quality” 作为研究问题。你真正的 estimand 是：
+
+∂
+P
+e
+r
+f
+o
+r
+m
+a
+n
+c
+e
+B
+,
+p
+,
+t
++
+1
+∂
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+A
+,
+p
+,
+t
+∂Experience 
+A,p,t
+​
+ 
+∂Performance 
+B,p,t+1
+​
+ 
+​
+ 
+​
+ 
+并且问这个斜率是否随着 ownership 改变：
+
+β
+A
+→
+B
+p
+o
+s
+t
+>
+β
+A
+→
+B
+p
+r
+e
+.
+β 
+A→B
+post
+​
+ >β 
+A→B
+pre
+​
+ .
+​
+ 
+其中：
+
+B
+B：被收购医院，student；
+A
+A：收购方 system 中已经很有经验的医院，teacher；
+p
+p：同一种 procedure；
+T
+B
+T 
+B
+​
+ ：B 被收购时间。
+最重要的一条：A 必须在 acquisition 之前定义好。 不要 merger 后再选“表现最好的 sister hospital”，否则 teacher selection 是 endogenous。
+
+我建议定义：
+
+A
+(
+B
+,
+p
+)
+=
+arg
+⁡
+max
+⁡
+j
+∈
+A
+c
+q
+u
+i
+r
+e
+r
+S
+y
+s
+t
+e
+m
+V
+o
+l
+u
+m
+e
+j
+,
+p
+,
+T
+−
+2
++
+V
+o
+l
+u
+m
+e
+j
+,
+p
+,
+T
+−
+1
+2
+.
+A(B,p)=arg 
+j∈AcquirerSystem
+max
+​
+  
+2
+Volume 
+j,p,T−2
+​
+ +Volume 
+j,p,T−1
+​
+ 
+​
+ .
+并且 teacher 和 target 最好位于不同 commuting zones。这样 local demand correlation 会小很多。
+
+第二步：第一版只做两个 procedure，不要铺开
+你之前 memo 里建议先做 CABG + THA/TKA，这个选择我同意。
+
+我的优先级是：
+
+CABG 作为主 pilot。
+因为它的 volume-quality/LBD story 最容易讲，而且 mortality/readmission 这种 outcome 有经济意义。
+
+THA/TKA 作为 replication。
+病例数量更多，而且有 complication measures。
+
+先不要同时加 PCI、cancer surgery、stroke 等等。你现在不是要“做完论文”，而是要回答：
+
+这套 empirical object 有没有 signal？
+
+第三步：先建最小可行数据集
+最终你需要先做出一个稳定的：
+
+C
+C
+N
+×
+Y
+e
+a
+r
+CCN×Year
+hospital master，然后再扩成：
+
+H
+o
+s
+p
+i
+t
+a
+l
+×
+P
+r
+o
+c
+e
+d
+u
+r
+e
+×
+Y
+e
+a
+r
+.
+Hospital×Procedure×Year.
+第一轮只需要五块数据：
+
+CMS CHOW：acquisition date、buyer/seller；
+AHRQ Health System Compendium：hospital → system；
+CMS Inpatient Provider × DRG：procedure volume；
+Care Compare historical files：mortality / complications / readmission；
+HCRIS：beds、staffing、hospital characteristics。
+你之前的 feasibility work 已经确认，这些 public pieces 基本能支撑第一版 pilot；restricted claims 可以等 first-pass result 有意思再申请。
+
+我建议 sample 暂时固定为：
+
+2014
+−
+2024
+2014−2024
+的 volume/quality panel，然后识别大约
+
+2016
+−
+2023
+2016−2023
+发生的 acquisition。
+
+这样每个 deal 尽量保留 acquisition 前后几年。
+
+第四步：在碰 M&A 之前，先验证你自己的 learning measure
+这是一个很容易被忽略、但非常重要的 test。
+
+先完全不管 ownership，估：
+
+Y
+h
+p
+t
+=
+β
+O
+w
+n
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+h
+p
+,
+t
+−
+1
++
+α
+h
+p
++
+γ
+t
++
+ε
+h
+p
+t
+.
+Y 
+hpt
+​
+ =βOwnExperience 
+hp,t−1
+​
+ +α 
+hp
+​
+ +γ 
+t
+​
+ +ε 
+hpt
+​
+ .
+其中可以先用：
+
+O
+w
+n
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+h
+p
+,
+t
+=
+∑
+τ
+=
+t
+−
+2
+t
+−
+1
+V
+o
+l
+u
+m
+e
+h
+p
+τ
+OwnExperience 
+hp,t
+​
+ = 
+τ=t−2
+∑
+t−1
+​
+ Volume 
+hpτ
+​
+ 
+或者 rolling two-year volume。
+
+如果 
+Y
+Y 是 mortality / complication rate，那么应该看到：
+
+β
+<
+0.
+β<0.
+这一关是在问：
+
+CMS public data 本身能不能复现基本的 learning-by-doing relationship？
+
+如果连 own-learning 都看不到，那么用这套 public data 去找 cross-hospital learning 会非常困难。
+
+所以这应该是你的 Figure 1，不是 merger graph。
+
+第五步：然后做整个 project 最重要的第一张图
+对每个 acquisition 
+B
+B，procedure 
+p
+p，固定一个 pre-merger teacher 
+A
+A。
+
+然后画：
+
+P
+e
+r
+f
+o
+r
+m
+a
+n
+c
+e
+B
+,
+p
+,
+t
+Performance 
+B,p,t
+​
+ 
+与
+
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+A
+,
+p
+,
+t
+−
+1
+Experience 
+A,p,t−1
+​
+ 
+的关系，分别在 acquisition 前和后。
+
+最简单可以先跑：
+
+Y
+B
+p
+t
+=
+β
+1
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+A
+,
+p
+,
+t
+−
+1
++
+β
+2
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+A
+,
+p
+,
+t
+−
+1
+×
+P
+o
+s
+t
+B
+t
++
+α
+B
+p
++
+γ
+t
++
+ε
+B
+p
+t
+.
+Y 
+Bpt
+​
+ =β 
+1
+​
+ Experience 
+A,p,t−1
+​
+ +β 
+2
+​
+ Experience 
+A,p,t−1
+​
+ ×Post 
+Bt
+​
+ +α 
+Bp
+​
+ +γ 
+t
+​
+ +ε 
+Bpt
+​
+ .
+此时：
+
+β
+1
+=
+separate ownership 下 A→B 的 slope
+,
+β 
+1
+​
+ =separate ownership 下 A→B 的 slope,
+而
+
+β
+1
++
+β
+2
+=
+common ownership 下 A→B 的 slope
+.
+β 
+1
+​
+ +β 
+2
+​
+ =common ownership 下 A→B 的 slope.
+你真正想看到：
+
+β
+1
+≈
+0
+,
+β
+2
+<
+0
+β 
+1
+​
+ ≈0,β 
+2
+​
+ <0
+​
+ 
+如果 outcome 是 mortality / complications。
+
+这不是 final causal regression。它只是 feasibility regression。
+
+如果这张图什么都没有，我会先停下来检查 design，而不是马上上 IV。
+
+第六步：马上做三个 placebo，决定它是不是“learning”
+这一部分甚至比 baseline significance 更重要。
+
+第一，procedure placebo。CABG teacher volume 应该更强地预测 B 的 CABG performance，而不是 B 的 hip-replacement performance：
+
+V
+o
+l
+u
+m
+e
+A
+C
+A
+B
+G
+↛
+Q
+u
+a
+l
+i
+t
+y
+B
+T
+H
+A
+/
+T
+K
+A
+.
+Volume 
+A
+CABG
+​
+ 
+
+→Quality 
+B
+THA/TKA
+​
+ .
+第二，做 teacher–student asymmetry。预先定义：
+
+G
+a
+p
+A
+B
+,
+p
+=
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+A
+,
+p
+,
+T
+−
+1
+−
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+B
+,
+p
+,
+T
+−
+1
+.
+Gap 
+AB,p
+​
+ =Experience 
+A,p,T−1
+​
+ −Experience 
+B,p,T−1
+​
+ .
+预测：
+
+β
+A
+→
+B
+β 
+A→B
+​
+ 
+应该随着 
+G
+a
+p
+Gap 增大而更强。
+
+反过来：
+
+B
+→
+A
+B→A
+应该弱很多。
+
+第三，learning saturation。如果 B 自己已经很 experienced，那么 A 对 B 的帮助应该更弱：
+
+∂
+∣
+β
+A
+→
+B
+∣
+∂
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+B
+<
+0.
+∂Experience 
+B
+​
+ 
+∂∣β 
+A→B
+​
+ ∣
+​
+ <0.
+如果这三个 pattern 都没有，而只是 “所有 acquired hospitals 都一起变好”，那更像 generic management synergy，不是你的 story。
+
+第七步：只有看到 signal，才上 causal identification
+这时才进入真正难的地方。
+
+你之前找到的最好 candidate 是：
+
+Competitor closure near A
+Competitor closure near A
+​
+ 
+因为 competitor closure 会使 A 在 procedure 
+p
+p 上获得额外 patient volume：
+
+C
+l
+o
+s
+u
+r
+e
+A
+,
+p
+,
+t
+→
+V
+o
+l
+u
+m
+e
+A
+,
+p
+,
+t
+↑
+.
+Closure 
+A,p,t
+​
+ →Volume 
+A,p,t
+​
+ ↑.
+如果 B 在另一个 commuting zone，那么这个 closure 几乎不应该直接改变 B 的 local patient demand。这个正是 hospital setting 相对于很多其他 industry 很漂亮的地方。
+
+正式 causal object 可以写成 reduced form：
+
+Y
+B
+,
+p
+,
+t
++
+h
+=
+β
+(
+C
+l
+o
+s
+u
+r
+e
+S
+h
+o
+c
+k
+A
+,
+p
+,
+t
+×
+S
+a
+m
+e
+O
+w
+n
+e
+r
+A
+B
+,
+t
+)
++
+F
+E
++
+ε
+.
+Y 
+B,p,t+h
+​
+ =β(ClosureShock 
+A,p,t
+​
+ ×SameOwner 
+AB,t
+​
+ )+FE+ε.
+再做 2SLS：
+
+C
+l
+o
+s
+u
+r
+e
+S
+h
+o
+c
+k
+A
+→
+V
+o
+l
+u
+m
+e
+A
+→
+P
+e
+r
+f
+o
+r
+m
+a
+n
+c
+e
+B
+.
+ClosureShock 
+A
+​
+ →Volume 
+A
+​
+ →Performance 
+B
+​
+ .
+不过这里要特别处理 physician migration：如果 competitor closure 后医生直接跑去了 A，那么你识别到的可能是 human-capital inflow，而不是 learning-by-doing。你前面的 memo 已经正确抓到了这个 threat。后面可以用 physician NPI affiliation 控制或排除强 migration cases。
+
+第八步：现在先设一个明确的 go / no-go rule
+我建议你不要无限往里面砸时间。第一轮 pilot 做完以后，我们只看四件事：
+
+自己医院内部能否看到 
+V
+o
+l
+u
+m
+e
+h
+p
+t
+→
+F
+u
+t
+u
+r
+e
+Q
+u
+a
+l
+i
+t
+y
+h
+p
+t
+Volume 
+hpt
+​
+ →FutureQuality 
+hpt
+​
+ ；
+acquisition 前 
+A
+→
+B
+A→B 是否接近 0；
+acquisition 后同 procedure 的 
+A
+→
+B
+A→B 是否明显增强；
+effect 是否在 large experience-gap 的 teacher–student pairs 中更强。
+如果 前三条里至少三条方向都对，而且 magnitude 有经济意义，这个 project 就值得进入 competitor-closure IV 和 claims 阶段。
+
+如果只是：
+
+P
+o
+s
+t
+A
+c
+q
+u
+i
+s
+i
+t
+i
+o
+n
+B
+→
+Q
+u
+a
+l
+i
+t
+y
+B
+↑
+PostAcquisition 
+B
+​
+ →Quality 
+B
+​
+ ↑
+那我会建议不要继续，因为会掉回 crowded hospital-merger literature。
+
+我现在建议你下一次真正动手只做一件事：
+
+先建出 CABG 的 2014–2024 Hospital × Year panel，并完成 hospital ownership/system mapping。
+
+先不要急着跑复杂 regression。
+
+第一张数据表最终只需要长这样：
+
+CCN	Year	System_ID	Acquisition_Date	CABG_Volume	CABG_Mortality	Beds	State
+等这张表完成，再构造每个 target 
+B
+B 的 teacher 
+A
+A，进入 pair-level analysis。
+
+如果你愿意，我下一条可以直接进入真正的 RA/Data Construction 模式：我帮你把这第一步拆成“具体下载哪些文件 → 每个文件留哪些变量 → 用什么 identifier merge → CABG 对应哪些 DRG → 最后 Python/Stata 中每列变量叫什么”，你可以照着一步一步开始做。
+
+User attachment
+User attachment
+我目前下载了这些数据，够不够？不够的话我再去下
+
+Worked for 1m 1s
+目前这批数据已经很好了，但还不够直接开始最终的 pilot。我看了你截图里的文件，也核对了 CMS/AHRQ 当前的数据结构。你现在已经拿到了 ownership change、procedure volume、quality outcome 的核心组件；主要还缺 health-system membership 的 longitudinal mapping，以及需要确认你的 inpatient volume 是否真的是多年 panel。
+
+你现在已有的数据里，下面这些是对的：Hospital Change of Ownership 是 acquisition event 的核心；Hospital All Owners 和 CHOW - Owner Information 可以辅助识别 owner；Medicare Inpatient Hospitals - by Provider and Service 正是我们需要的 hospital × MS-DRG volume，CMS 明确说明它按 hospital 和 MS-DRG 组织、包含 discharges；Complications and Deaths 和 Unplanned Hospital Visits 是我们需要的 mortality/complication/readmission outcomes。
+
+而且你已经下载了 hospitals_annual_2019.zip 到 hospitals_annual_2026.zip，这很好。这些就是 CMS Hospital Provider Data Catalog 的历史 archives；CMS 当前公开 archive 可以追溯到 2019，所以 2019–2026 的 historical quality snapshots 你基本已经拿到了。
+
+但是，我建议你现在再下载下面 3 类东西：
+
+AHRQ Compendium of U.S. Health Systems – Hospital Linkage Files：必须下载。
+下载 2016、2018、2020、2021、2022、2023 六个年份的 Hospital Linkage File。这是目前你最重要的缺口。它直接给你
+
+C
+C
+N
+→
+S
+y
+s
+t
+e
+m
+I
+D
+CCN→SystemID
+所以我们可以知道某一年 A 和 B 到底是不是同一个 health system。AHRQ 官方目前正好提供这六个年份，而且 hospital linkage file 是标准组成部分。
+
+AHRQ Compendium of U.S. Health Systems 下载页
+
+确认并补齐 Medicare Inpatient Provider × Service 的逐年数据：必须确认。
+你现在这个 Medicare Inpatient Hospitals - by Provider and Service.zip 有可能只是一个年份的 release，而不是完整多年 panel。CMS 的这个数据实际上按年度有不同 distribution；例如官方文档明确演示了按 2017-01-01/2017-12-31 这样的 temporal period 获取对应年份。
+
+我们希望最终至少有：
+
+2014
+,
+2015
+,
+…
+,
+2024
+2014,2015,…,2024
+的 hospital × MS-DRG × year 数据。
+
+你先不用重新下载。 打开这个 zip 看一下：如果里面本身已经包含多个年份的数据，就够；如果只有一个 CSV/Parquet 且里面没有 Year / Rndrng_Prvdr...year 这种跨年信息，就需要把历史年份补齐。这个是我现在最想让你先确认的。
+
+HCRIS Hospital Cost Reports：建议现在下载，但不妨碍第一张图。
+这是后面做 beds、staffing、cost、hospital characteristics controls 最有用的数据。CMS 的 HCRIS 有逐 fiscal year 的 hospital cost-report ZIP 文件，Hospital Form 2552-10 是我们这段期间主要用的版本。
+
+CMS HCRIS Cost Reports
+
+除此以外，暂时不要继续疯狂下数据。Hospital Service Area 可以留着，但不是第一版必需；Medicare Inpatient Hospitals - by Provider 也留着，但我们真正做 CABG/THA-TKA learning 的核心是 by Provider and Service。Hospital All Owners 不能替代 AHRQ Compendium，因为我们需要 longitudinal system structure，而不只是当前 owner。
+
+我现在建议把 pilot 的样本期稍微调整一下：先做 2019–2024/2025，而不是一开始硬做 2014–2024。原因是你现在 CMS historical quality archives 从 2019 开始非常完整；这样可以先快速判断这个 idea 有没有信号。如果有，再想办法往前延伸 historical outcomes。CMS 当前 hospital archive 本身也只要求保留最近 7 年。
+
+所以你现在的状态大概是：
+
+Ownership event：✅
+Quality history 2019–2026：✅
+Procedure volume：🟡 需要确认是不是多年
+Hospital → System longitudinal mapping：❌ 需要下载 AHRQ
+Controls/HCRIS：❌ 建议下载
+Competitor closures / IV：先不下
+
+你下一步最省时间的做法是：先去把 AHRQ 这 6 个年份的 Hospital Linkage Files 下载好，然后告诉我 Medicare Inpatient Hospitals - by Provider and Service.zip 解压后里面有哪些文件/年份。 你把那个解压后的文件列表截图给我，我就能准确告诉你还缺不缺 volume 数据；然后我们就可以正式开始建第一张 CCN × Year master table。
+
+AHRQ，我点进2023，里面是这样，我要下哪个？https://www.ahrq.gov/chsp/data-resources/compendium-2023.html
+
+你要下的是 Hospital Linkage File，不是最上面的 System File。AHRQ 在 2023 页面里专门把它单列出来，而且它就是把 hospital 映射到 health system 的文件。
+
+具体来说，2023 页面里下载这一项：
+
+Hospital Linkage File → Excel，如果你准备用 Excel 看/检查数据，我更建议下 Excel 版；
+Hospital Linkage File → CSV，如果你之后主要用 Python/Stata 批量处理，也可以直接下 CSV。
+AHRQ 还特别提醒：如果用 Excel 打开 CSV，带前导 0 的字段可能会被自动去掉，所以如果你现在主要是手动查看，优先下载 Excel 版。
+
+你不用下：
+
+System File：这是 health system 层面的汇总特征；
+Outpatient Site Linkage File；
+Nursing Home Linkage File；
+Home Health Care Organization Linkage File。
+不过我建议你顺手也把 System File 一起下载，因为它很小，后面可能会用到 system-level controls；但必须有的是 Hospital Linkage File。
+
+你现在可以先下载：
+
+2023 Hospital Linkage File (Excel)
+AHRQ 2023 Hospital Linkage File download page
+
+然后 2016、2018、2020、2021、2022、2023 都照这个逻辑，各自下对应年份的 Hospital Linkage File。
+
+等你下完后，把其中一个 Excel 的列名截图给我，我可以马上告诉你哪几列以后要保留，以及怎么跟 CMS 的 CCN 对上。
+
+
+
+“确认并补齐 Medicare Inpatient Provider × Service 的逐年数据：必须确认”我当时只下载了2024年的，我以为包含了所有年份，但现在看好像这个数据是分年度的
+对，你现在判断是对的。这个 dataset 是按年度发布的，不是你下载 2024 就自动包含过去所有年份。 CMS 官方页面也明确写了它是 annual dataset；当前页面公开可直接选的年份是 2019–2024。
+
+所以你现在最好把 2019、2020、2021、2022、2023、2024 的 Medicare Inpatient Hospitals - by Provider and Service 全部下载下来。我们第一版 pilot 就先用这六年，已经足够做一个很有意义的 ownership/event-study feasibility test。
+
+有个好消息是：CMS FAQ 说明从 FY2014 开始，Inpatient PUF 已经覆盖所有 MS-DRG；2011–2013 才只有 top 100 DRGs。
+ 所以如果以后我们真的需要把样本往前延伸到 2014–2018，理论上是可以的，只是当前新版页面没有直接把这些更老年份列在同一个 download selector 里，我们后面再专门找 archive 即可。现在先不要卡在这个上面。
+
+你现在建议这样做：
+
+保留你已经有的 2024；
+再下载 2019–2023，每年各一份 by Provider and Service；
+by Provider 那个 hospital-level 文件可以留，但不是 CABG/THA-TKA volume 的核心；
+下载完先不要手工拼，我建议我们用 Python/Stata 一次性 append，并加一个 year 变量。
+我们真正需要的字段大概率就是：
+
+C
+C
+N
+,
+M
+S
+-
+D
+R
+G
+,
+T
+o
+t
+a
+l
+D
+i
+s
+c
+h
+a
+r
+g
+e
+s
+,
+Y
+e
+a
+r
+CCN,MS-DRG,TotalDischarges,Year
+再加支付/charge 字段作为备用。这个数据本身就是按 hospital × MS-DRG 组织的，所以非常适合构造 procedure-specific volume。
+
+还有一个你现在就要注意的小坑：CMS 会 suppress 某个 hospital-DRG 下 discharge 
+≤
+10
+≤10 的 cells。
+ 所以后面我们不能把缺失简单当作 0；这会影响低 volume hospitals 的 experience measure。
+
+你先把 2019–2023 的 by Provider and Service 全部下载齐。下完以后，我们下一步就可以非常具体地做：确定 CABG 和 THA/TKA 对应哪些 MS-DRG，然后从六年原始数据里只抽这几个 DRG，生成第一版 CCN × procedure × year volume panel。
+
+我把2013~2024的全部分别export了，从这个页面https://data.cms.gov/provider-summary-by-type-of-service/medicare-inpatient-hospitals/medicare-inpatient-hospitals-by-provider-and-service/data/2015
+
+很好，这样就够我们把 procedure-volume panel 往前拉到 2013–2024 了。你从 CMS 同一个 Medicare Inpatient Hospitals - by Provider and Service 页面逐年 export，这个方向完全对。CMS 也明确说明这个 dataset 是按 hospital × MS-DRG 组织、年度更新的。
+
+不过有一个很重要的口径差异：2013 只能谨慎使用。CMS 明确写着，FY2011–FY2013 的 Inpatient PUF 只发布 top 100 MS-DRGs；从 FY2014 开始才包含所有 MS-DRGs。
+
+所以我建议我们正式 pilot 的主样本先定成：
+
+2014
+−
+2024
+2014−2024
+​
+ 
+2013 可以留着，后面如果 CABG/THA-TKA 恰好属于当年的 top 100 DRGs，可以用作额外 pre-period，但不要一开始依赖它。
+
+还有一个必须记住的数据问题：CMS 会把某个 provider × DRG 下 10 个及以下 discharges 的 cell suppress 掉。
+ 所以后面 append 年度数据时，缺失的 hospital-DRG observation 不能直接赋值为 0。这一点之后处理 learning experience 时很重要。
+
+你现在 procedure-volume 这一块，我会直接标成：
+
+✅ 已经下载完成。
+
+下一步不需要继续找更多 inpatient volume 数据了。现在应该开始做数据整理。
+
+我建议你先把 2014–2024 这 11 个文件放在同一个文件夹里，并尽量统一命名，例如：
+
+inpatient_provider_service_2014.csv
+inpatient_provider_service_2015.csv
+...
+inpatient_provider_service_2024.csv
+然后我们第一步只抽四类东西：
+
+Y
+e
+a
+r
+,
+ 
+C
+C
+N
+,
+ 
+M
+S
+-
+D
+R
+G
+,
+ 
+T
+o
+t
+a
+l
+D
+i
+s
+c
+h
+a
+r
+g
+e
+s
+Year, CCN, MS-DRG, TotalDischarges
+​
+ 
+外加 provider name/state 用于 sanity check。
+
+接下来我建议我们先不要 merge ownership。下一步最干净的是先做：
+
+CABG 和 THA/TKA 到底对应哪些 MS-DRGs，以及这些 DRG 在 2014–2024 有没有发生编码变化。
+
+这个一定要先搞清楚，否则你直接 append 后做 volume，可能会把 procedure definition 弄错。
+
+所以你现在数据下载这一步已经推进得很好。**下一步我可以直接帮你把 CABG 和 THA/TKA 的 MS-DRG mapping 从 2014–2024 全部列出来，然后告诉你每年应该筛哪些 DRG。**这样我们马上就可以生成第一版 CCN × procedure × year panel。
+
+好，具体告诉我下一步要做什么
+
+Worked for 5m 22s
+对，现在已经可以正式从“下载数据”进入“做 pilot”了。下一步先只做 CABG，不要同时铺开 THA/TKA、ownership、IV。 目标是先得到一个干净的 hospital × year CABG volume panel，然后再往上叠 quality 和 ownership。
+
+把所有 raw files 整理好，原始文件不要改。 建议建 5 个文件夹：raw/inpatient_drg/、raw/ahrq/、raw/chow/、raw/quality/、derived/。把 2013–2024 的 inpatient files 统一命名为 inpatient_2013.csv … inpatient_2024.csv。主分析先用 2014–2024；2013 先保留不用，因为 CMS 2011–2013 只发布 top 100 DRGs，而 2014 起才包含全部 MS-DRGs。
+
+先构造 CABG volume。 第一版 CABG 定义用 MS-DRG 231–236。CMS 当前 grouper 中这六个 DRG 全部属于 coronary bypass：231–232 是 CABG with PTCA，233–234 是 CABG with cardiac catheterization/open ablation，235–236 是 CABG without cardiac catheterization。
+
+每个年度文件只保留：
+year、CCN、hospital_name、state、MS_DRG、total_discharges。
+然后筛选 MS_DRG ∈ {231,232,233,234,235,236}，按 CCN × year 加总：
+
+C
+A
+B
+G
+V
+o
+l
+u
+m
+e
+h
+t
+=
+∑
+d
+=
+231
+236
+D
+i
+s
+c
+h
+a
+r
+g
+e
+s
+h
+d
+t
+.
+CABGVolume 
+ht
+​
+ = 
+d=231
+∑
+236
+​
+ Discharges 
+hdt
+​
+ .
+最后输出：
+derived/cabg_volume_hospital_year.csv。
+
+这里一定加一个 suppression flag，不要把没出现的 DRG 当成 0。 CMS 对某个 hospital × DRG 如果 discharge ≤10，会直接 suppress，因此缺一行可能代表 0，也可能代表 1–10。
+
+所以第一版至少保留：
+cabg_volume_observed、n_cabg_drgs_observed。
+暂时不要自己给 suppressed cells 填 5 或 10。我们的 teacher hospital 本来就会偏向高-volume hospital，所以第一轮这个 measurement error 相对可控。
+
+做三个 sanity checks，再往下走。 每年分别算：有 CABG observation 的医院数、全国 observed CABG discharges 总数、每家医院 CABG volume 的 median/mean。画一张 2014–2024 national CABG volume trend。CMS 这个数据确实是 hospital × MS-DRG 的 Medicare FFS inpatient utilization，因此这些检查可以很快发现列名错位、年份没读对或者 DRG 被当成 string/numeric 的问题。
+
+如果某一年突然少一半医院，而不是合理波动，就先停下来查数据，不要往后 merge。
+
+然后处理 CABG quality，暂时只取两个 measure。 从你每个历史 hospital archive 里找 Complications and Deaths - Hospital 和 Unplanned Hospital Visits - Hospital，只留：
+
+MORT_30_CABG
+MORT_30_CABG
+和
+
+READM_30_CABG
+.
+READM_30_CABG.
+CMS 官方定义分别是 CABG 30-day mortality 和 CABG 30-day readmission。
+
+这里请保留：
+CCN、measure_id、score、denominator（如果有）、start_date、end_date、archive_release_year。
+
+先不要把 archive year 直接当作 outcome year。 这些 quality measures 通常覆盖滚动多年窗口，比如当前 CABG measure 是多年度 measurement period；这是后面 event-study 里一个非常重要的问题。
+
+AHRQ linkage 也整理成一个 snapshot panel。 下载/保留 2016、2018、2020、2021、2022、2023 Hospital Linkage File。AHRQ 目前官方就是这几个年份；linkage 文件中直接有 ccn 和 health_sys_id。
+
+输出：
+derived/ahrq_system_membership.csv，结构大致是：
+ccn | snapshot_year | health_sys_id | health_sys_name。
+
+CCN 一律保存成字符串，而且保留前导 0。 AHRQ 自己也特别提醒 Excel 会把前导 0 吃掉。
+
+CHOW 暂时只清洗，不急着配 teacher。 从 Hospital Change of Ownership 里先做一个：
+target_ccn | effective_date | transaction_type | buyer_name | seller_name
+的 event table。先看 transaction_type 的所有 unique values，再决定哪些算真正 acquisition/merger；不要凭名字先过滤。输出 derived/chow_events_clean.csv。
+
+只有上面四张表都稳定后，我们才做 teacher–student pairing。 对每个被收购医院 
+B
+B，在 merger 前固定 acquiring system 内 CABG experience 最高的医院作为 
+A
+A：
+
+A
+(
+B
+)
+=
+arg
+⁡
+max
+⁡
+j
+(
+V
+o
+l
+u
+m
+e
+j
+,
+T
+−
+1
++
+V
+o
+l
+u
+m
+e
+j
+,
+T
+−
+2
+)
+.
+A(B)=arg 
+j
+max
+​
+ (Volume 
+j,T−1
+​
+ +Volume 
+j,T−2
+​
+ ).
+然后构造：
+
+T
+e
+a
+c
+h
+e
+r
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+A
+,
+T
+,
+S
+t
+u
+d
+e
+n
+t
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+B
+,
+T
+,
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+G
+a
+p
+A
+B
+,
+T
+.
+TeacherExperience 
+A,T
+​
+ ,StudentExperience 
+B,T
+​
+ ,ExperienceGap 
+AB,T
+​
+ .
+这一刻才开始研究
+
+E
+x
+p
+e
+r
+i
+e
+n
+c
+e
+A
+×
+P
+o
+s
+t
+A
+c
+q
+u
+i
+s
+i
+t
+i
+o
+n
+→
+Q
+u
+a
+l
+i
+t
+y
+B
+.
+Experience 
+A
+​
+ ×PostAcquisition→Quality 
+B
+​
+ .
+你现在最应该做的是第 2–4 步，不是继续下载。 也就是先把 2014–2024 的 CABG volume panel 做出来。
+
+你如果想让我直接带你做，我建议你下一条上传一个早期年份，比如 2014 的 inpatient CSV，再上传 2024 的 CSV。因为 CMS 跨年份列名有可能变化。我看完两份 header 后，可以直接给你一段能一次性读取 2014–2024、自动 harmonize 列名、筛 231–236、输出 cabg_volume_hospital_year.csv 的 Python/Stata code。这样我们就真正开始跑数据了。
+
